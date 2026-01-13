@@ -1,0 +1,703 @@
+10023.xml	p495	p2819	1525	t1,t5	<s n="99">Grütz mir hernn schultheis <persName ref="p6336" sent="to">Ruͤplin</persName>, <persName ref="p6338" sent="to">Sigmunden</persName>, <persName ref="p5906" sent="to">Mörickovernn</persName>, den praedicanten und ander bruͤder in Christo, und «die gnad gottes sy mitt dir».</s>
+1003.xml	p8130	p495	1550	t10	<s n="39">Es sind die spillüt grüst gsin, und ein unversächner grosser dantz worden, derhalben also, das sich mencklicher nitt gnuͦg hatt können verwundren, ist diser schwär handell mitt eim sölichen lichtferigen und lächrigen end beschlossen.</s>
+10040.xml	p495	p2824	1526	t5,t6	<s n="21">Aber darab lassend üch nit grusen, «denn also habend sy verfolget die propheten, die vor üch gewesen sind».</s>
+10040.xml	p495	p2824	1526	t5,t6	<s n="54">Wer ist dann, dem da yenen möchte grusen, die wyl häll gesprochen ist: «Ich bin das liecht der wellt; wer nach mir gadt, der wirt nit irren in einiger vinsternus»?</s>
+10040.xml	p495	p2824	1526	t5,t6	<s n="56">Wie köndte dann yemands unnder den christen grusen?</s>
+10057.xml	p495	p2001	1528	t5,t6	<s n="41">Iren gruͤtz ist mir träffenlich angnäm, embüten inen ouch hiemitt minen willigen dienst, minen früntlichen gruͤtz und was ich inen liebs, eer und guͦts vermöchte.</s>
+10057.xml	p495	p2001	1528	t5,t6	<s n="42">Also ist ouch min pitt, ir wellind mir frow <persName ref="p5785" sent="to">Catherinen</persName>, üwere schwester früntlichen gruͤtzen etc.</s>
+10066.xml	p2835	p495	1531	t1	<s n="7">Gruͤtzenn mir her schulthes <persName ref="p2004" sent="to">Mutschly</persName>, üwer her fater, wer üch lieb seyg und min her apt und pryger zuͦ Kapell, all lieb bruͤdernn in got, amen etc.</s>
+10088.xml	p8071	p495	1532	t5,t11	<s n="13">Gruͤssend mir den onbekanten schulthais von Bremgarten und ander, so ir fertruwend.</s>
+10095.xml	p8440	p495	1532	t2	<s n="7">Grüß mir von hertzen din hußfrow, myner triebßal ein trüwe mittlyderin.</s>
+10121.xml	p8071	p495	1532	t5,t11	<s n="22">Grüst üch och mir üwer frowen, kind, den vatter, <persName ref="p1753" sent="to">Leon</persName> und andre etc.</s>
+10121.xml	p8071	p495	1532	t5,t11	<s n="25">Grüsend mir meister <persName ref="p5935" sent="to">Kaspar</persName>, den trüwen.</s>
+10129.xml	p261	p495	1532	t2,t3	<s n="8">Gruͤtzund unß alle, so unß gruͤtzt hand, insunders unseren getruwen <persName ref="p1753" sent="to">Leonem</persName>, mit begird, wellend altzyt mit uffsähen unser sachen, alß uch, unseren vettern, gewonlich, nach uwer truw gelegenheyt, alle zyt zieren etc.</s>
+10132.xml	p8460	p495	1532	t2,t5	<s n="15">Es lat euch gruͤsen herr <persName ref="p6232" sent="from">Jacob Riner</persName>, etwan ze Tail predicant, by uns yetz wonhafft.</s>
+10136.xml	p66	p495	1532	t5,t9	<s n="6">Mein husfraw, die nun zwentzig wuchen ein bedtrys gewesenn, laßt euch und mein liebe schwöster gar früntlichen gruͤssen, mit hertzlichem begeren, ir wöllent gott den herren für sy und unns alle pitten, auch unns alzeit lassen bevolhen sein.</s>
+10178.xml	p8071	p495	1532	t2,t10	<s n="19">Grützend mir üwer lieb husfrowen, fatter, muter, gsind.</s>
+10187.xml	p3873	p495	1532	t2	<s n="15">Gruͤtzend mir unsere bruͤder.</s>
+10188.xml	p8129	p495	1532	t5,t11	<s n="12">Grüssen mir den <persName ref="p1753" sent="to">Leo</persName>, den <persName ref="p8127" sent="to">Pellican</persName> und andre bruͤder, so den herren von hertzen lieben.</s>
+1021.xml	p3530	p495	1550	t2	<s n="4">Min herren <persName sent="from">graff Jörgen</persName> wil ich uff morn, so ich kumlichen zuͦ im komen kan, uwer und minß her burgemeyster <persName ref="p1888" sent="to">Laffederen</persName> fruntlichen gruͦtz anzeygen, ouch die ubelmögenheyt gemeltz herren burgemeysteren, welche an zwiffel im leyd sin wurtt.</s>
+1021.xml	p3530	p495	1550	t2	<s n="6">Hiemitt bitt ich uch, mier in und <persName ref="p1419" sent="to">burgemeyster Haben</persName>, ouch meyster <persName ref="p7228" sent="to">Uͦlrichen Zwingli</persName>, und wär uch lieb sye, fast fruntlichen zuͦ gruͤtzen, gott den almächtigen truywlichen bittende, daß er uch, min gar erenden, lieben herren und vertruwten frund, in siner gnaden schirm und huͦtt aywiklich erhalthen welle.</s>
+10234.xml	p8071	p495	1533	t2	<s n="25">Gruͤtzend mir üwer lieb <persName ref="p8051" sent="to">husfrowen</persName>, den <persName ref="p20449" sent="to">vatter</persName>, die <persName ref="p7042" sent="to">muͦter</persName>, och <persName ref="p1753" sent="to">Leon</persName>, und wer mir nachfragt.</s>
+10297.xml	p1391	p495	1533	t3	<s n="66">Was ir meinind mitt dem Ave Maria ze sprechen zuͦ erinnerung der menschwerdung Christi, die doch sust alle predigen gehandlet wirt und wir den gruͦß und die wort für andre uff dem cantzel harfür zihend, superstitione carere non indicant hi, qui a vobis audiunt, quamvis doctrinam vestram sanam in hoc agnoscam.</s>
+10302.xml	p8071	p495	1533	t9	<s n="14">Grützend mir <persName ref="p1753" sent="to">Leony</persName>, <persName ref="p8127" sent="to">Pellican</persName>, Maister <persName ref="p257" sent="to">Werny</persName>, <persName ref="p4349" sent="to">Karolstady</persName>, <persName ref="p6796" sent="to">Tumysen</persName>, <persName ref="p8437" sent="to">Erasme</persName> und gliepte bruͤder.</s>
+10302.xml	p8071	p495	1533	t9	<s n="17">Grützend mir üwer lieb husfrowen und husgsind.</s>
+10302.xml	p8071	p495	1533	t9	<s n="18">Der gruß von Costentz von üch, by zöger, ist mir worden.</s>
+10325.xml	p8071	p495	1533	t10	<s n="14">Grützend uns baiden üwer lieb husfrowen und <persName ref="p1753" sent="to">Leon</persName>, alle bruͤder.</s>
+10337.xml	p495	p8418	1533	t10	<s n="71">Gruͤtzend mir minen besondern geliepten herren burgermeister <persName ref="p8129" sent="to">Jac. Meyern</persName> und jungheren <persName ref="p5832" sent="to">Bernhartten Meyern</persName>, <persName ref="p8349" sent="to">Frygen</persName> etc.</s>
+10356.xml	p2295	p495	1534	t9,t11	<s n="14">Min hußfrow und wir alle lassend üch alle vast grüessen.</s>
+10356.xml	p2295	p495	1534	t9,t11	<s n="15">Grüessend unß üwer hußgsind, und wär üch lieb ist.</s>
+10356.xml	p2295	p495	1534	t9,t11	<s n="19">Und grüeßend unß üwer müotter sünderlich, unsere liebe baß.</s>
+10359.xml	p8071	p495	1534	t10,t11	<s n="15">Gruͦtzend mir üwer gantzes hus.</s>
+10361.xml	p2829	p495	1534	t1,t10	<s n="13">Grussen mir eüwer husfrowen und min vogtt.</s>
+10368.xml	p8071	p495	1534	t5,t10	<s n="13">Gruͤtzend mir üwer husfrowen und muͦter.</s>
+10374.xml	p8330	p495	1534	t5,t11	<s n="4">Ich danck uch undertänigklich des fruntlichen gruͦß mit dem wortzeichen, so ein Venedisch geht ist, darzuͦ ouch aller andren guͦttätt von gott durch uch mir bewisen etc.</s>
+10374.xml	p8330	p495	1534	t5,t11	<s n="10">Grießent mir uwer hußgesind und alle brieder.</s>
+10394.xml	p1393	p495	1534	t2,t5	<s n="11">Ich bitt uch, mir zuͦ gruetzen den <persName ref="p3242" sent="to">cüster</persName>, Meister <persName ref="p8447" sent="to">Wernher</persName> und all guͦtt heren und gots fründ.</s>
+10414.xml	p8071	p495	1534	t10	<s n="19">Gruͤtzend mir <persName ref="p1753" sent="to">Leonem</persName> und andre.</s>
+10416.xml	p8071	p495	1534	t2,t10	<s n="20">Gruͤtzend mir drü wiber in üwerm hus.</s>
+10427.xml	p4028	p495	1534	t1	<s n="4">Lieber Meister <persName ref="p495" sent="to">Heirich</persName>, gruzent mir üwery hußfrowen und üwery muͦtter und frow <persName ref="p7074" sent="to">Wirtzin</persName> und al nachberen und kuͦssend mir <persName ref="p7224" sent="to">Annely</persName> an ein begly von miner frowen wegen und von minan wegen und lend mir min huß anpffollen sin, wil ich um üch verdienen, und sind betten und sickent unß <persName ref="p7224">Annely</persName> gan Baden.</s>
+10427.xml	p4028	p495	1534	t1	<s n="5">Lieber Meister, frow <persName>Murrerin</persName> duͦt üch vast gruͦtzen.</s>
+10436.xml	p3873	p495	1534	t2,t5	<s n="16">Grützent mir unsere brüder, namlich min lieben glatter M. <persName ref="p8447" sent="to">Werner Steiner</persName>, <persName ref="p8127" sent="to">Conradum Pellicanum</persName> und insunderheit min heren burgenmeister <persName ref="p2816" sent="to">Röysten</persName>.</s>
+10439.xml	p8071	p495	1534	t10	<s n="22">Gruͤtzend mir üwer lieb <persName ref="p8051" sent="to">husfrowen</persName>, <persName ref="p7042" sent="to">muter</persName>, <persName ref="p1753" sent="to">Leony</persName>, <persName ref="p6794" sent="to">Tumysen</persName> und ander.</s>
+10442.xml	p495	p9708	1534		<s n="37">Also geburt jetzund ouch u.f.g., diß guͦt dem armen volk ze thuͦn, das inen regenten, obren, vögt, richter und amptlüt gesetzt, die gott lieb und sin wort werd habind, die aller zucht, frieden und frommkeit hold syend, die bösen schälk, gottes verachter, schender, schmeher, gwaltsamer und wuͤste unreine menschen hassind, die frommen, fridsamen, gotzförchtigen liebind, also früntlich den guten und gruͦsam den bösen syend, die stät und styff an guͦten gsatzten haltind, glych dem armen und rychen richtind, nach gstallt der sach, nit uß ansehen der personen oder bewegung der gaben, die ouch u.f.g. mitt iro unordnung by dem volk nit verhassdt machind, sunder die gantz redlich, trüw und fromm syend an gott, an u.f.g. und gantzer gmeind.</s>
+10450.xml	p2278	p495	1534	t2	<s n="7">Gruͤsend mier Meister <persName ref="p8447" sent="to">Werny Steiner</persName> und ander guͦt heren und gsellen.</s>
+10455.xml	p3241	p495	1534	t2,t3	<s n="14">Denne so wil ich uch biten, wellend uns die <persName ref="p7227" sent="to">Zwinglinn</persName> fast gruessen und ira sagen, ir sün <persName ref="p7232" sent="from">Wilhelm</persName> sygy frisch und gsund.</s>
+10461.xml	p8071	p495	1534	t2,t5	<s n="15">Min husfrow last üch sampt üwer frowen, och namlich die muͦter, grüssen; och ych.</s>
+10469.xml	p8071	p495	1534	t2	<s n="15">Pitt üch, mir minen hern maister <persName ref="p5935" sent="to">Kaspar</persName> und den goldschmid zuo grüssen.</s>
+10469.xml	p8071	p495	1534	t2	<s n="17">Grützend uns uwer husfrowen.</s>
+10480.xml	p8071	p495	1534	t2	<s n="13">Gruͤtzend uns üwer lieb <persName ref="p8051" sent="to">husfrowen</persName>, kind, vatter im Zürychberg etc.</s>
+10483.xml	p8175	p495	1534	t10	<s n="19">Groiz myr dynen <persName ref="p527" sent="to">broeder</persName> und hueßfraw sere.</s>
+10513.xml	p8071	p495	1534	t2,t5	<s n="12">Wir grüssend üwer lieb husgsind.</s>
+10517.xml	p8129	p495	1534	t3	<s n="13">Grüessen mir den <persName ref="p1888" sent="to">vogt</persName> von Kyburg, Meister <persName ref="p1753" sent="to">Leo</persName>, den <persName ref="p8127" sent="to">Pellicanen</persName> und die bruder all.</s>
+10536.xml	p495	p3067	1534	t2,t11	<s n="10">Gruͤtze mir alle geliepte bruͤder.</s>
+1054.xml	p8440	p495	1550	t1	<s n="5">Gruͤß mir das müterlin etc.</s>
+10544.xml	p4079	p495	1535	t6	<s n="45">Fragend den <persName ref="p8447" sent="to">Stainer</persName>, ob doch etwas dran sye, und grutzend mir den <persName ref="p8447" sent="to">Stainer</persName> ernstlich, och die <persName ref="p6690" sent="to">Stainerin</persName>, die mit uns badet, und ir volk alles.</s>
+10544.xml	p4079	p495	1535	t6	<s n="53">Ich solt den sack nit ler wider schicken, so hab ich yez nichts ghept, darum hond am dancken verguͦt, und grutzend mir üwer junge und alte maisterin, ouch üwere kind, und bewar, schütz und schirme uch gott mit sinen gnaden.</s>
+10546.xml	p262	p495	1535	t2	<s n="12">Nütt me, dan gott sig mitt üch, und gruͦz mir üwer folch.</s>
+1055.xml	p654	p495	1550	t1,t2	<s n="9">Gruͤtzenn mir den <persName>Frantzen</persName> und sin husfrowen, und ich hab sy vast gebätten, sy wellind inen min tochter lassen bevolhen sin.</s>
+10558.xml	p4021	p495	1535	t5,t11	<s n="71">Ouch min hertzlieben herren von Kyburg, der mir vyl guͦts hät thon, und sin eeliche frowen, syne kindt gryssend mir trilich und fruntlich.</s>
+10563.xml	p4079	p495	1535	t5,t6	<s n="27">Grützend mir uwer muͦter und <persName ref="p8051" sent="to">husfrowen</persName> uffs aller trülichost, und beware uch gott mit allem, das uch lieb ist.</s>
+10572.xml	p2830	p495	1535	t5	<s n="21">Begrützen mir üer volck.</s>
+10578.xml	p8440	p495	1535	t5,t6	<s n="35">Grüß mir dein liebs ripp, dein muͦter, <persName ref="p1753" sent="to">Leonem Jude</persName> mitt allen prüderen.</s>
+1058.xml	p8186	p495	1550	t11	<s n="24">Ich han eweri bryeff lassenn fil fromme leut sehen; dye grützen ewch allen und die ewernn.</s>
+1058.xml	p8186	p495	1550	t11	<s n="28">Pytt ewch, welt in und allenn fidelibus Christi grüss.</s>
+10588.xml	p8071	p495	1535	t2,t9	<s n="21">Und gruͤtzend mir frowen üwery und muͦter</s>
+10589.xml	p8389	p495	1535	t5	<s n="6">Es grues wuich und alle, die mir in truiwen nachfragend, gott, unser heiland und einigen trost.</s>
+10590.xml	p527	p495	1535	t2	<s n="10">Me so hat mir <persName ref="p7041" sent="from">Michel</persName> ein stundt grust; die gib dem schmidt und mach sy im in, das ers nit zerbrech.</s>
+10603.xml	p8071	p495	1535	t2	<s n="38">Min <persName ref="p4248" sent="from">husfrow</persName> danckt üch fast, pittet, och ich, <persName ref="p8051" sent="from">uwre</persName>, och die <persName ref="p7042" sent="to">muͦter</persName>, zuͦ gruͤssen.</s>
+10605.xml	p527	p495	1535	t1	<s n="11">Ich bin nun altag wol drin grust, das nit vil im spicher findt; nam cantabat vacuus coram latrone viator.</s>
+10606.xml	p4030	p495	1535	t2,t5	<s n="15">Nach dem so lat üch junckher <persName ref="p2300" sent="from">Hainrich von Ulm</persName> vil guͦtz sagen und früntlichen gruͤtzen.</s>
+10606.xml	p4030	p495	1535	t2,t5	<s n="16">Und gruͤtzen mir maister <persName ref="p5836" sent="to">Peter Mayer</persName> mitt aller dancksagung siner hilft und lieby halb.</s>
+10616.xml	p8071	p495	1535		<s n="20">Min frow und ich gruͤssend üwer hus gar guͦt.</s>
+10622.xml	p8071	p495	1535	t5,t11	<s n="22">Gruͤtzend uns beden üwer gantzes hus.</s>
+10624.xml	p8071	p495	1535	t2	<s n="8">Gruͤssend miner husfrowen und mir üwer hus alles.</s>
+10626.xml	p4079	p495	1535	t1,t6	<s n="10">Grutzen mir uwer <persName ref="p8051" sent="to">husfrowen</persName> und die <persName ref="p7042" sent="to">muͦter</persName> 1, ja yederman.</s>
+10634.xml	p8071	p495	1535	t5,t10	<s n="35">Gruͤtzend mir minen lieben hern nachpurnn, hernn <persName ref="p2816" sent="to">Rösten</persName>, vor ain uns baiden üwer gantz hus, maister <persName ref="p5935" sent="to">Kasparn</persName>, <persName ref="p2815" sent="to">Rordorffem</persName>.</s>
+10637.xml	p8330	p495	1535	t5,t11	<s n="16">Griessen wir alle brieder und guͦtt herren etc.</s>
+10664.xml	p8427	p495	1535	t2	<s n="10">Gruͤß mir Maister <persName ref="p1753" sent="to">Löwen</persName> von alter kuntschafft wegen.</s>
+10665.xml	p8071	p495	1535	t10	<s n="31">Bitt üch, mir in zuͦ gruͤssen.</s>
+10665.xml	p8071	p495	1535	t10	<s n="34">Gruͤssend uns üwer hus, maistren <persName ref="p5935" sent="to">Kaspar</persName>, maister <persName ref="p1419" sent="to">Haben</persName>.</s>
+10683.xml	p8071	p495	1535	t8,t10	<s n="25">Min <persName ref="p4248" sent="from">frow</persName> und ich gruͤssend üwer gantz hus und pittend von gott ernstlich, daß er üch nach sinem willen vor gaystlicher und liplicher pestelentz behuͤten welle.</s>
+10683.xml	p8071	p495	1535	t8,t10	<s n="32">Gruͤtzend mir min her <persName ref="p2816" sent="to">Rösten</persName>, mayster <persName ref="p5935" sent="to">Kasparn</persName>, <persName ref="p5920" sent="to">Hans Müllern</persName>, <persName ref="p2815" sent="to">Rordorffern</persName>, ja hand ir der wyl.</s>
+10692.xml	p8129	p495	1535	t5,t11	<s n="9">Gruessen mir <persName ref="p1753" sent="to">Leonem Jud</persName>, <persName ref="p8127" sent="to">Pellicanum</persName> und die brueder gemeinlich, den alten <persName ref="p21276" sent="to">abt</persName> von Wettingen, den <persName ref="p8447" sent="to">Steiner</persName> von Zug, ouch alle, so den herren von hertzen lieben, und, ists möglich, den <persName ref="p1888" sent="to">Laveter</persName> ouch.</s>
+10698.xml	p8071	p495	1535	t1	<s n="25">Gruͤssend mir üwer hus, zway seltzamy wiber, üwer muͦtter und üwer frowen, wend wir ain am andren lassen.</s>
+10703.xml	p8175	p495	1535	t4	<s n="35">Groetzt myr deine <persName ref="p8051" sent="to">hueßfraw</persName> und broeder <persName ref="p527" sent="to">Hansen</persName> sampt andern frunden tausentfalt.</s>
+1071.xml	p8013,p654	p495	1550	t1,t2	<s n="7">Von miner tochter wegen thuͦnd, wie ir mir geschriben hand, und gruͤtzen mir den <persName>Frantzen</persName> und sin husgsind.</s>
+10712.xml	p8071	p495	1535	t2,t10	<s n="21">Min <persName ref="p4248" sent="from">frow</persName>, och ich, lassend üwer <persName ref="p8051" sent="to">husfrowen</persName>, och lieby <persName ref="p7042" sent="to">muͦter</persName>, alle grutzen.</s>
+10712.xml	p8071	p495	1535	t2,t10	<s n="23">Grüssend mir, ob mir etwar nachfragt.</s>
+10718.xml	p8012	p495	1535	t2,t10	<s n="15">Grüssend mir guͦtt herrenn und gsellen.</s>
+10721.xml	p8071	p495	1535	t2,t10	<s n="23">Was ir habend von Yenff oder sunst, berichten uns, und gruͤtzen uns baiden üwer <persName ref="p8051" sent="to">uxor</persName> et <persName ref="p7042" sent="to">mater</persName>.</s>
+10721.xml	p8071	p495	1535	t2,t10	<s n="25">Ob ir minem hern <persName ref="p2816" sent="to">Rösten</persName> sagen Appenzeller halb, so gruͤtzen mir in.</s>
+10721.xml	p8071	p495	1535	t2,t10	<s n="28">Es begert an mich ain fürnämer, mitt namen <persName ref="p20542" sent="from">Kaspar Zollikoffer</persName>, alt seckelmaister, der mitt <persName ref="p8049">Vadiano</persName> zuͦ Bremgarten bott gewessen und in üwerm hus gsin, sagt vyl früntschaft, üch sinen gruͦss zuͦ schribenn.</s>
+10738.xml	p8071	p495	1535	t10	<s n="29">Gruͤssend mir frowen och mir alles hus, och min her <persName ref="p2816" sent="to">Rösten</persName>, maister <persName ref="p5935" sent="to">Kasparn</persName> und ander.</s>
+10744.xml	p8071	p495	1535	t2	<s n="21">Gruͤssend uns üwer hus.</s>
+10749.xml	p8036	p495	1536	t2	<s n="5">Nit me, dann griessen mir mein hertzliebe bese, uwer husfrouwen.</s>
+10760.xml	p8012	p495	1536	t10	<s n="18">Grüssend mir <persName ref="p1753" sent="to">Meyster Lew</persName> und den <persName ref="p1888" sent="to">vogtt von Kyburg</persName> sampt andren guͦten herren und gesellen.</s>
+10761.xml	p1044	p495	1536	t5	<s n="14">Grützend uns M. <persName ref="p1753" sent="to">Löwen</persName> und <persName ref="p6794" sent="to">Rudolphum Tumysen</persName>.</s>
+10767.xml	p8012	p495	1536	t2,t10	<s n="19">Unnsernn gruͦtz zuͦvor, ersammen, lieben, getruwen.</s>
+10785.xml	p8071	p495	1536	t4,t10	<s n="31">Schickend mir sy zuͦ und grüssend uns beden uwer <persName ref="p477" sent="to">kintpetern</persName>, die <persName ref="p7042" sent="to">muͦter</persName> und volck, maister <persName ref="p5935" sent="to">Kaspar</persName>, den trüwen, und andere.</s>
+10788.xml	p8012	p495	1536	t2,t10	<s n="3">"Min früntlich gruͦss und alle guͦtwilligkeit zuͦvor.</s>
+10788.xml	p8012	p495	1536	t2,t10	<s n="35">Nit me, dann got halt üch in siner huͦt, und gruͤssend mir <persName ref="p1753" sent="to">Meister Löwenn</persName> und den vogt vonn Kyburg, dessglychenn, wer üch lieb sye.</s>
+10790.xml	p8012	p495	1536	t10	<s n="3">Lieber Meyster <persName ref="p495" sent="to">Heinrich</persName>, es hat mier ein guͦter fründ und bruͦder geschriben; sick ich üch die koppi zuͦ: "Min frünttlich gruͦs und willing dienst sige üch von mier alle zit bereitt.</s>
+10790.xml	p8012	p495	1536	t10	<s n="19">Grüssen uns aller üwer husfrow und üwer kind</s>
+10790.xml	p8012	p495	1536	t10	<s n="29">Ich danck üch über handlung, die ier mier hand gesick, und den schryber dar zu und über guͦten rim, und dancken mier Meister <persName ref="p8447" sent="from">Steiner</persName> ouch und sinen, und gruesend mier Meister <persName ref="p1753" sent="to">Leüwen</persName> und al guͦt brüeder.</s>
+10795.xml	p495	p8178	1536	t2,t10	<s n="13">Grützend mir doctor <persName ref="p4079" sent="to">Hansen</persName>, junker <persName ref="p4082" sent="to">Cunradten</persName> und andere liebe herren und bruͤder.</s>
+10812.xml	p3067	p495	1536	t5	<s n="12">Es grüesßt üch und all uwer hußfölckli myn früntlicher, lieber gmachel.</s>
+10813.xml	p8071	p495	1536	t2,t4	<s n="16">Wir baide begered, daß ir uns uxor, mater, puer, virgo und alles grüssend.</s>
+10819.xml	p8071	p495	1536	t10	<s n="12">Mit tusent grüssen von uns beden, üwer demy etc. und andre.</s>
+10823.xml	p2825	p495	1536	t5	<s n="15">Grüsendt mir den Meyster <persName ref="p1753" sent="to">Löuwen</persName> unnd alle, die uch lieb sinnd.</s>
+10826.xml	p2813	p495	1536	t2,t5	<s n="13">Grüssen mir <persName ref="p1753" sent="to">Meister Leuwen</persName>, minen truwen preceptorem <persName ref="p8171" sent="to">Theodorum</persName> et Pellicanum und andere predicanten und herren.</s>
+10829.xml	p8071	p495	1536	t2	<s n="12">Grützend uns beden uwer gantzes hus, <persName ref="p2815" sent="to">Rordorffern</persName> und alle gliepten etc.</s>
+10837.xml	p8012	p495	1536	t1,t2	<s n="14">Grüesent mier den vogt von Kibbürg und <persName ref="p1753" sent="to">Meister Leüw</persName></s>
+1084.xml	p1278	p495	1550	t4,t10	<s n="19">Hie schickt myn hußfrow uwernn mit eynem gruͦß ein par messer zuͦ eim meskram, bittet sy, sy welle verguͦtt nemen mit einen kleynen gabe etc.</s>
+10845.xml	p8071	p495	1536	t5,t10	<s n="17">Mit grüss von uns beden vos omnes, domus, her <persName ref="p2816" sent="to">Rösten</persName>, maister <persName ref="p5935" sent="to">Kasparn</persName>, <persName ref="p2815" sent="to">Rordorffern</persName>, andre.</s>
+10849.xml	p8129	p495	1536	t5	<s n="11">Grüessen mir <persName ref="p1753" sent="to">Meister Löwen</persName>, <persName ref="p8127" sent="to">Pellicanen</persName>, <persName ref="p8171" sent="to">Theoderen</persName> und min <persName ref="p21276" sent="to">herren</persName> von Wettingen und die bruͤder all.</s>
+10859.xml	p8012	p495	1536	t2,t3	<s n="13">Nit me, dan grüesen mier den <persName ref="p1888" sent="to">vogt von Kibbürg</persName> und ander guͦt geselen.</s>
+1090.xml	p8186	p495	1550	t7	<s n="10">Eß grußend ewch ale Christi filii etc.</s>
+1090.xml	p8186	p495	1550	t7	<s n="11">Grußend unß alle dye denn herren lieb habennd.</s>
+10900.xml	p8443	p495	1536	t10	<s n="17">Es gruͤtzt üch <persName ref="p8412" sent="from">Caspar</persName>, <persName ref="p8428" sent="from">Rellican</persName>, min <persName ref="p2827" sent="from">bruͦder</persName> unnd ander guͦt gsellen.</s>
+10905.xml	p8012	p495	1536	t2	<s n="13">Und grüesen mier her <persName ref="p1888" sent="to">Lafider</persName> und <persName ref="p20538" sent="to">Heinrich</persName> und meister <persName ref="p1753" sent="to">Leüw</persName> und ander guͦt bruͦder.</s>
+1091.xml	p495	p8055	1550	t10	<s n="25">H. <persName>Petern Schuͤren</persName> gruͤssend mir; dem wil ich bald selbs schryben.</s>
+10943.xml	p8330	p495	1536	t2,t4	<s n="10">Grießent mir den <persName ref="p1753" sent="to">Leonen</persName>, <persName ref="p8171" sent="to">Theodorum</persName> und omnes alios etc.</s>
+10967.xml	p495	p8418	1536	t4,t6	<s n="53">Es gruͤtzt üch <persName ref="p1753" sent="from">Leo</persName>.</s>
+10967.xml	p495	p8418	1536	t4,t6	<s n="54">Grützend uns <persName ref="p1365" sent="to">Grynaeum</persName>, <persName ref="p4349" sent="to">Carolstadium</persName>, den stattschryber und ander lieb herren und bruͤder, vorab herrn <persName ref="p8129" sent="to">Jacoben Meyern</persName> und <persName ref="p5832" sent="to">Bernhart Meyern</persName> etc.</s>
+11000.xml	p495	p2275	1537	t6	<s n="6">Es gruͤtzt dich und din liebe hußfrouwen min gliepter bruͦder <persName ref="p1753" sent="from">Leo Jude</persName>, din vetter.</s>
+11035.xml	p495	p1888	1537	t2,t11	<s n="6">Gruͤtzend mir den herrn schuldheyssen von Bernn etc.</s>
+11042.xml	p8129	p495	1537	t10	<s n="18">Grussen mir Meister <persName ref="p1753" sent="to">Leo</persName>, <persName ref="p8127" sent="to">Pellican</persName>, die brueder gemeinlich und alle die, so den herren von hertzen lieben.</s>
+11058.xml	p8071	p495	1537	t1,t10	<s n="8">Das sagen minem her <persName ref="p2816" sent="to">Rösten</persName> mitsampt minem gruͦß.</s>
+11058.xml	p8071	p495	1537	t1,t10	<s n="11"><persName ref="p4248" sent="from">Min frow</persName> laßt uch alle gruͤssen, och ich, och unser son.</s>
+11060.xml	p1394	p495	1537	t2,t3	<s n="19">Maister <persName ref="p14" sent="to">Hansen Abiberg</persName>, <persName ref="p6539" sent="to">Heinrich Schwitzer</persName>, die thuͦnd grüssen in meinem namen.</s>
+11079.xml	p495	p8418	1537	t2	<s n="35">Grützend mir inn.</s>
+11084.xml	p3873	p495	1537	t2	<s n="21">Grützend mir mine günstigen herren und gebruͤder, <persName ref="p8127" sent="to">Pellicanum</persName>, <persName ref="p1753" sent="to">Leonem</persName> und insunders Meister <persName ref="p8447" sent="to">Werner Steiner</persName>.</s>
+11093.xml	p8071	p495	1537	t2	<s n="3">Die ir och uns allen alle zum früntlichosten grüssen sellen, zuͦsampt unserm son etc.</s>
+11107.xml	p4079	p495	1537	t5	<s n="11">Er lat uch ernstlich grutzen.</s>
+11107.xml	p4079	p495	1537	t5	<s n="13">Und hat sich kurtzlich begeben, das ain junger hie gwesen, mit namen <persName ref="p8398" sent="from">Clauserus</persName>, der mir ain grutz bracht vom <persName ref="p8418" sent="from">Myconio</persName>.</s>
+11113.xml	p8129	p495	1537	t5	<s n="16">Gruessen mir Meister <persName ref="p1753" sent="to">Löwen</persName>, <persName ref="p8127" sent="to">Pellicanen</persName> und die brüeder gemeinlich, ouch den herren <persName ref="p1888" sent="to">Laventher</persName> und den alten <persName ref="p21276" sent="to">herren</persName> von Wettingen.</s>
+11133.xml	p8129	p495	1538	t10	<s n="12">Gruͤssen mir den herrn <persName ref="p1888" sent="to">Laventher</persName>, <persName ref="p8127" sent="to">Pellican</persName> und Meister <persName ref="p1753" sent="to">Löwen</persName>; wünsch inen im herren vyl guter jar.</s>
+11144.xml	p4100	p495	1538	t2,t4	<s n="8">Gruͤssennd mir üwery hußfrow, min bässly, und schwager <persName ref="p527" sent="to">Hans</persName>.</s>
+11153.xml	p8129	p495	1538	t2,t3	<s n="10">Eüch hiemit der gnad gottes trüwlich bevelhende, grüessen mir Meister <persName ref="p1753" sent="to">Leowen</persName>, den <persName ref="p8127" sent="to">Pellican</persName> und die brüder gemeinlich.</s>
+11153.xml	p8129	p495	1538	t2,t3	<s n="12">Sagen herren <persName ref="p1888" sent="to">Laventher</persName> minen gruͦß.</s>
+11164.xml	p991	p495	1538	t2,t5	<s n="9">Hiemit sind gott bevolhen und gruͤtzend wir üweren trüwen mitarbeiter in göttlichem wort, <persName ref="p1753" sent="to">Leonem Iudę</persName>, welichem ir disse unser meinung och wöllend furhalten, darum ich üch vast wil gebetten haben.</s>
+11187.xml	p8071	p495	1538	t9,t10	<s n="46">Er last uch früntlich dancken und grüssen.</s>
+11187.xml	p8071	p495	1538	t9,t10	<s n="56">Den <persName ref="p1888" sent="to">Laffatter</persName> thuͦnd mir fruntlich grüssen.</s>
+11187.xml	p8071	p495	1538	t9,t10	<s n="62">Min <persName ref="p4248" sent="from">husfrow</persName> last uch, uwren <persName ref="p8051" sent="to">frowen</persName>, <persName ref="p7042" sent="to">muͦter</persName> und kinder, och <persName ref="p6444" sent="to">magt</persName>, früntlich grussen, bis uns gott dermaln eins wider zuͦsamen hilft.</s>
+11219.xml	p8014	p495	1538	t6	<s n="19">Unsern fruntlichen gruoß, sampt was wir liebs unnd guotz vermögend, zuovor.</s>
+11223.xml	p495	p8049	1538	t2,t10	<s n="13">Hiemitt last er üch früntlich gruͤtzen und embüt sich gägen üch aller trüwen diensten und liebe.</s>
+11223.xml	p495	p8049	1538	t2,t10	<s n="17">Gruͤtzend mir h(err) <persName ref="p6438" sent="to">Ambrosy Schlumpffen</persName> und üwere predicanten, mine lieben bruͤder.</s>
+11231.xml	p1419	p495	1538	t5	<s n="13">Gruͤssend mir <persName ref="p1753" sent="to">Meister Löwenn</persName> und all herren examinatores.</s>
+11238.xml	p8129	p495	1538	t10,t11	<s n="23">Der wolle euch sampt euweren mitarbeiteren im wort des herren in siner gnad erhalten, die ir mir hiemit alle grüssen söllen, sampt herr <persName ref="p1888" sent="to">Laventer</persName> und herren burgermeister <persName ref="p2816" sent="to">Röschen</persName>.</s>
+11274.xml	p8376	p495	1539	t2	<s n="7">Ich an stadt meyner herrn und freund grüsse euch freundlichen von aller wegen, des gleichen alle obgenantte herrn und euer mithelffer.</s>
+11308.xml	p1419	p495	1539	t9,t10	<s n="30">Gruͤssend mir <persName ref="p1753" sent="to">M. Löwen</persName>, her <persName ref="p8412" sent="to">Casparenn</persName>, herren bropst, her doctor <persName ref="p1042" sent="to">Engelhartt</persName> und fogt <persName ref="p1888" sent="to">Lafentern</persName>, auch üwere liebe husfrowenn und kind.</s>
+11343.xml	p3866	p495	1539	t6,t9	<s n="13">Meinen unbechanten gruos wellet eur christenlichen <persName ref="p8051" sent="to">frowen</persName> minen gruos im hern vleissig und getreulich sagen und mirß zu guot halte.</s>
+11357.xml	p1419	p495	1539	t4,t10	<s n="14">Gruͤssen min herren und schwager, her burgermeister <persName ref="p2816" sent="to">Röistenn</persName>, von minentwägen fast.</s>
+11357.xml	p1419	p495	1539	t4,t10	<s n="18">Üwer gruͦß, den ir minem bredicannten gethann, fröwtt in fast wol.</s>
+11357.xml	p1419	p495	1539	t4,t10	<s n="19">Ladt üch ouch fast wider gruͤssen und früntlichen dank sagenn.</s>
+11357.xml	p1419	p495	1539	t4,t10	<s n="20">Min hußfrow und ich gruͤssend üch und üwer husfolk fast etc.</s>
+11357.xml	p1419	p495	1539	t4,t10	<s n="21">Gruͤssend mir <persName ref="p1753" sent="to">M. Löwen</persName>, herren bropst und ander mine herren und fründ.</s>
+1139.xml	p8055	p495	1551	t11	<s n="24">Gruͤtzend die ewern all mitt allen lieben herren und bruͤdern.</s>
+11390.xml	p8440	p495	1540	t2	<s n="9">Grüß mir dein liebe hausfrow zu taußend maalen ouch in namen der meynen.</s>
+11398.xml	p8071	p495	1540	t10	<s n="13">Wellend minem hern <persName ref="p2816" sent="from">Rösten</persName> min gruͦß sampt der zithung von mir ansagen, daby all guͦt hern, hern <persName ref="p459" sent="to">propst</persName>, <persName ref="p1753" sent="to">Leon</persName>, <persName ref="p8412" sent="to">Casparn</persName>, <persName ref="p8171" sent="to">Theoder</persName>, <persName ref="p8437" sent="to">M. Raßmus</persName>, <persName ref="p6793" sent="to">Thumysen</persName>, <persName ref="p17785" sent="to">Andress Gessner</persName>, meister <persName ref="p5935" sent="to">Kaspar</persName>, so vil uch müglich (wann ir uff der gassen spacieren) grüssen, <persName ref="p1888" sent="to">Laffatter</persName> och, vorab vestram <persName ref="p8051" sent="to">uxorem</persName> et pueros.</s>
+1145.xml	p8108	p495	1551	t10	<s n="8">Bitt, ir wellind mir meister <persName ref="p1214" sent="to">Hans Friesen</persName>, min lieben bruͦder, gruͤssen, und wünsch üch beiden und üwern hußgesinden ein glückhafftig nüw jare.</s>
+11682.xml	p8055	p495	1542	t9,t10	<s n="37">Sagt mir meinem sunder gunstigen, lieben herr burgermaister <persName ref="p2816" sent="to">Rösten</persName>, sinem <persName ref="p6319" sent="to">sun</persName> und <persName ref="p20168" sent="to">sunsfrauwen</persName> vyl dienst, guͦtz und gruͦtz.</s>
+11686.xml	p8055	p495	1542	t10,t11	<s n="30">Wellt mir meinem insunder gunstigen, lieben herren und freund burgermaister <persName ref="p2816" sent="to">Rösten</persName> vyl dienst und gruͦtz mitt empietung alles guͦten sagen.</s>
+11686.xml	p8055	p495	1542	t10,t11	<s n="34">Die <persName ref="p20065" sent="from">Zwicken</persName> lassen euch fruntlich und brüderlich grüssen.</s>
+1169.xml	p495	p499	1551	t9	<s n="5">Es gruͤst dich all min volck.</s>
+11708.xml	p2810	p495	1542	t2	<s n="23">Ir mugents wol <persName ref="p8412" sent="to">Casparnn</persName> vertruwen, aber sunst niemant; den grüetzend mir ouch truwlich.</s>
+11766.xml	p8440	p495	1543	t10	<s n="29">Gruß mir den frommen, gottliebenden <persName ref="p8127" sent="to">Pellicanum</persName>, herr <persName ref="p8412" sent="to">Casparnn</persName>, <persName ref="p344" sent="to">Binderum</persName> und alle diener des worts.</s>
+11766.xml	p8440	p495	1543	t10	<s n="33">Ich dorff nitt wol brieff von dir vorderen, denn ich hab meyn unschick noch nitt widerpracht, welt aber dennocht gern einfart ein fruntlichen gruß von dir haben, mocht es nitt meer gesin.</s>
+11780.xml	p2237	p495	1543	t2	<s n="31">Gruͤssend mir uwer lieb <persName ref="p8051" sent="to">huß frowen</persName> und all guͦt herren und bruͤder, in sonders <persName ref="p8171" sent="to">Theodorum</persName>.</s>
+11791.xml	p2700	p495	1543	t11	<s n="26">Ich will üch gebetten haben, ir welt mir her <persName ref="p5089" sent="to">Hainrich Gölldlin</persName> gruͤzen und im die nüwe mer zeigen, wie sin heidiner oder hellig vatter, der papst, tuͦt.</s>
+11842.xml	p1057	p495	1543	t2	<s n="19">Grussend mir uwere <persName ref="p8051" sent="to">hußfrow</persName>, her <persName ref="p8011" sent="to">Gwaltherum</persName>, meyster <persName ref="p20575" sent="to">Jacob Sprungly</persName>, sin hußfrow und alle andre guͦtte fründt zuͦ tusent molen.</s>
+11846.xml	p7879	p495	1543	t2,t5	<s n="3">Mit enbiettung myns früntlichen gruͦs und aller guͦtt myns vermügens zuͦ vor.</s>
+11846.xml	p7879	p495	1543	t2,t5	<s n="18">Wellentt mich mynem eerenden herren burgermeister <persName ref="p2816" sent="to">Röisch</persName> samptt der eeren früntschafft befelchen, inen ouch alle guͦttwillickheit und gruͦß sagen.</s>
+11847.xml	p1057	p495	1543	t2	<s n="19">Gruͤssen mir all uwer hußgesindt und guͦt frundt und bruͤder.</s>
+11853.xml	p1057	p495	1543	t2,t10	<s n="21">Grussend mir alle guͦtte herren und bruͤder, minen herren burgenmeister und alle andre guͦtte fründt.</s>
+11853.xml	p1057	p495	1543	t2,t10	<s n="22">Es thuͦtt uch ouch griessen all min hußgesind.</s>
+11882.xml	p8055	p495	1544	t10	<s n="44">Dem theuren christlichen herrn <persName ref="p2816" sent="to">Rösten</persName> und seinem <persName ref="p6319" sent="to">sun</persName>, ouch des <persName ref="p20168" sent="to">hausfrauwen</persName>, wellt von mir vyl dienst, guͦtz und gruͦtz sagen mitt wunschung vyl gnadrycher, gloubreycher und dultreycher jar mitt allem guͦtem; ich beger ir aller getruw, glöbig fürpitt.</s>
+11884.xml	p8055	p495	1544	t2,t5	<s n="7">Wellt ewer ersamen, christlichen <persName ref="p8051" sent="to">hausfrauwen</persName>, kinden mitt allen liebverwandten vyl dienst, liebs und gruͦtz mitt wünschung alles guͦten sagen; beger hertzlich ewer aller getruw furpitt.</s>
+11924.xml	p8055	p495	1544	t10	<s n="7">Sagt mir meinem gunstigen lieben herrn burgermaister <persName ref="p2816" sent="to">Rösten</persName>, <persName ref="p6319" sent="to">seinem sun</persName> und <persName ref="p20168" sent="to">sünin</persName> vyl dienst, guͦtz und gruͦtz, und habt unß gegen gott und zytlich allweg für bevolchen.</s>
+11929.xml	p8055	p495	1544	t10	<s n="71">So muͦß ich schier gedencken, ir habind meinen namen dem <persName ref="p1888" sent="to">Lavater</persName> und <persName ref="p1419" sent="to">Haben</persName> angezaigt, diewyl ir mir von iren wegen sonderlich ain gruͦtz zuͦschribend, welchs sy doch yetz nitt ursach gehapt hetten euch ze bevelchen.</s>
+11929.xml	p8055	p495	1544	t10	<s n="80">Ich schreib euch kainen gruͦtz von nieman uff diß mal; es hat wichtig ursachen, das ich nieman davon sag.</s>
+11930.xml	p1278	p495	1544	t2,t10	<s n="10">Min hußfrow schicket do uwerer und herrn <persName ref="p8171" sent="to">Theodori</persName> hußfrowen jetlicher ein barmesser und bittet sy der by, si wellent ein kleyne meynung, die in allem guͦten beschicht, also uff nemen und nit verachten, und griesset uch und uwere hußfrowen im herren.</s>
+11936.xml	p8055	p495	1544	t2,t10	<s n="14">Wellt mir meinem günstigen her <persName ref="p2816" sent="to">Rösten</persName> vyl vyl dienst, guͦts und gruͦtz sagen.</s>
+11938.xml	p495	p8055	1544	t10	<s n="4">Min herr last üch gantz früntlich gruͤssen.</s>
+11964.xml	p8055	p495	1544	t2,t10	<s n="17">Dem herr <persName ref="p2816" sent="to">Rösten</persName> wellt vyl dienst, guͦtz und gruͦtz von mir sagen.</s>
+11994.xml	p2810	p495	1544	t5,t10	<s n="18">Grüetzent mir min lieb herrnn und brüeder all.</s>
+12015.xml	p495	p1010	1544	t2,t4	<s n="34">Wil ich verdienen, wo ich kan; ouch umb dem stattschryber, den grüssend mir etc.</s>
+12091.xml	p8055	p495	1544	t6,t10	<s n="33">Meinem gunstigen Herrn <persName ref="p2816" sent="to">Rösten</persName> wellt vyl dienst, gruͦtz und guͦtz von mir sagen.</s>
+12101.xml	p8055	p495	1544	t10	<s n="59">Gruͤzt alle ewer hausgesind mitt wunschung guͦter jar und aller fridlicher gottgefelliger zeyt.</s>
+12104.xml	p8467	p495,p8412	1544	t4,t6	<s n="15">Zum letst wünschend wir üch göttliche hilff und bystand, die warheyt weydelich zeerretten vor dem grußammen frävel, den <persName ref="p1974">Luther</persName> brucht.</s>
+12109.xml	p495	p8055	1545	t2,t10	<s n="16">Gruͤssend mir mine geliepte herren <persName ref="p8178" sent="to">Thomam Blaurerum</persName> fratrem und <persName ref="p4082" sent="to">Conraten Zwick</persName>, etc.</s>
+12171.xml	p495	p8055	1545	t4	<s n="7">Gruͤssend mir inn früntlich.</s>
+12217.xml	p495	p3067	1545	t3,t4	<s n="16">Jetzund hab ich nut wyters, dann gruͤssend mir und miner <persName ref="p8051" sent="from">hußfrowen</persName> üwer liebe eeren <persName ref="p6730" sent="to">hußfrowen</persName>.</s>
+12274.xml	p8055	p495	1545	t4,t10	<s n="41">Sagt den ewern allen vyl dienst, guͦtz und gruͦtz von mir, und hapt unß gegen dem herren allzeyt in getruwem fürpitt christelich für bevolchen.</s>
+12332.xml	p8354	p495	1545	t10	<s n="48">Gruest mir herr burgermeister <persName ref="p1888" sent="to">Lavatern</persName>, den herrn <persName ref="p8339" sent="to">statschreiber</persName>, dominum <persName ref="p8011" sent="to">Rodolphum Gvalterum</persName>, <persName ref="p1283" sent="to">Geßnerum</persName> et totum domicilium Palladis.</s>
+12336.xml	p8354	p495	1545	t10	<s n="34">Gruest mir den herrn burgermaister <persName ref="p1888" sent="to">Lavatern</persName>, herrn <persName ref="p8339" sent="to">statschreiber</persName>, all mein günstig herren literatos.</s>
+12340.xml	p3927	p495	1545	t5,t10	<s n="14">Welt myr ewer mytbryeder in evangelio Jesu Crystz frayntlych griessenn, mych zu ewerem besten wysen.</s>
+12360.xml	p8354	p495	1545	t5,t10	<s n="60">Gruesst mir mein gunstig gepietend herrn burgermaister mit erpietung meiner willigen diennst.</s>
+12360.xml	p8354	p495	1545	t5,t10	<s n="62">Den herrn statschreiber unnd all gunstig herrn begere ich ze grueßen.</s>
+12416.xml	p3927	p495	1546	t6,t11	<s n="20">Bayde heren burgermaister wellet myr frayntlych irs grus danken unnd sy wyderum frayntlych von meynet wegenn griessenn; inen antzaygen, wo ich inen oder gemeyner stat gedyenenn kynnt, das ich gantz willyg seyn welt.</s>
+12416.xml	p3927	p495	1546	t6,t11	<s n="21">Ich unnd myn <persName ref="p43" sent="from">hausfraw</persName>, auch al die unseren, gryesenn ewch, lyeber her, ewer erbere <persName ref="p8051" sent="to">hausfraw</persName>, al die ewerenn im herenn.</s>
+12453.xml	p8018	p495	1546	t10,t11	<s n="41">Mein freündtlichen gruß, etc.</s>
+12456.xml	p3927	p495	1546	t6	<s n="23">Ich bedank mych, auch meyn <persName ref="p43" sent="from">hausfrau</persName>, des meynen bayder burgermaisteren frayntlich grusß.</s>
+12456.xml	p3927	p495	1546	t6	<s n="26">Wellet myr auch bayde heren burgermaister frayntlych wyderum gryessenn.</s>
+12500.xml	p8354	p495	1546	t6,t10	<s n="62">Wollennd mir die herrn Burgermaister, herrn <persName ref="p8339" sent="to">statschriber</persName> unnd alle gelerten, dern ir den allerzirlichsten waldt hapt, zum freundtlichsten gruessen.</s>
+12507.xml	p8354	p495	1546	t10,t11	<s n="11">Grüsst mir die herrn burgermaister, statschryber, <persName ref="p8011" sent="to">Gvalterum</persName>, <persName ref="p1283" sent="to">Gessnerum</persName>, etc.</s>
+12511.xml	p495	p8354	1546	t10	<s n="35">Gruͤssend mir beide herren Burgermeister <persName ref="p3927" sent="to">W.</persName> und <persName ref="p1410" sent="to">H.b.</persName>, ouch <persName ref="p8018" sent="to">Hallern</persName>, <persName ref="p1860" sent="to">Cellarium</persName>, etc.</s>
+12513.xml	p8354	p495	1546	t10,t11	<s n="13">Grusst die herrn burgermaister unnd alle herrn gelerten, etc.</s>
+12519.xml	p8354	p495	1546	t10,t11	<s n="17">Grüesst mir alle liebe herrn unnd brüeff mit ermanung, das sie gott bitten wöllend, damit diser schwer handl zu seinen gotlicher eren unnd zu unnserm heil on plutvergiessen ußgefurt werde.</s>
+12527.xml	p8055	p495	1546	t10,t11	<s n="46">Bitten fuͤr unß und gruͤsst all guͦt herren und freund.</s>
+12530.xml	p495	p8055	1546	t10,t11	<s n="40">Gruͤssend mir guͦt herren und fründ.</s>
+12532.xml	p8055	p495	1546	t10,t11	<s n="38">Den bittend für uns und grützt all gut herrn und freund.</s>
+12532.xml	p8055	p495	1546	t10,t11	<s n="39">Euch grützend min lieber bruder und vetter <persName ref="p4082" sent="to">C. Zwick</persName> mitt andern.</s>
+12533.xml	p8354	p495	1546	t10	<s n="26">Saget mynen gebittenden herrn burgermaistern flissgen dannckh ires truen gruß unnd bittend ime myne dinst allzit willig synn zu.</s>
+12533.xml	p8354	p495	1546	t10	<s n="27">Grüsst mir die herrn bruder, gelerten alle unnd ermanent sie, unnsern gott fur uns ze bitten.</s>
+12536.xml	p8055	p495	1546	t10,t11	<s n="33">Es gruͤtzend uch die unseren, insonder min lieber Bruder und vetter <persName ref="p4082" sent="to">Conrad Zwick</persName>.</s>
+12537.xml	p1419	p495	1546	t10	<s n="9">M. <persName ref="p6793" sent="from">Thumisen</persName> tut uch fast gruͤssen.</s>
+12541.xml	p495	p8018	1546	t5,t10	<s n="51">Sollend ihr anzeigen meinen herren <persName ref="p3927" sent="to">Welsern</persName>, <persName ref="p1410" sent="to">Herbroten</persName> und <persName ref="p8354" sent="to">stattschreibern</persName>, denen mein willig dienst und gruß ansagen.</s>
+12542.xml	p8354	p495	1546	t10	<s n="18">Gruesst mir die herrn burgermaister, statschryber unnd die herrn gelerten vlyssig.</s>
+12543.xml	p495	p8055	1546	t2,t10	<s n="55">Und gruͤssend inn und uwern bruͦder seer früntlich.</s>
+12544.xml	p1419	p495	1546	t10	<s n="3">Unnd wiewol ich üch fil ze schriben hety, mag ich doch so fil wil nütt habenn, dan daß ir by minem lieben herrenn unnd fründ, her <persName ref="p1888" sent="to">Hanß Ruͦdolff Lafater</persName>, alle ding, die wir unserenn herren zuschribend, vernemen werdend; den ir mir auch fast früntlich gruͤssen söllend, ime sagen, daß er nütt zürnen welle, daß ich im nüdt besunder schrib, dan ich warlich nüdt wil hab.</s>
+12546.xml	p8071	p495	1546	t10	<s n="13"><persName ref="p6355" sent="from">Jheronimus Sayler</persName> last uch grussen, deß buchs fruntlich dancken.</s>
+12550.xml	p8055	p495	1546	t2,t10	<s n="24">Mein lieber <persName ref="p4082" sent="from">vetter</persName> empiet euch vyl guͦtz und gruͦtz.</s>
+12550.xml	p8055	p495	1546	t2,t10	<s n="57">Gruͤtzt ewer haußgesind sampt allen guͦten herren und freunden.</s>
+12557.xml	p8354	p495	1546	t10	<s n="19">Gruesst mir die herrn burgermaister, statschryber, <persName ref="p8011" sent="to">Gvaltherum</persName>, <persName ref="p1283" sent="to">Geßnerum</persName>, <persName ref="p8171" sent="to">Bibliander</persName>, etc.</s>
+12558.xml	p8018	p495	1546	t10	<s n="87">Daruff sich die unseren auch grüst.</s>
+12572.xml	p8071	p495	1546	t2,t10	<s n="11">Item der her burgermaister <persName ref="p3927" sent="from">Walser</persName> sagt uch fruntlichen grus.</s>
+12585.xml	p8369	p495	1546	t10	<s n="3">Alls er aber dem <persName ref="p3590" sent="to">landgrafen von Hessen</persName> zuͦgesagt, ime an üch syn hochen früntlichen gruͦß mit ettwas bevelch uffs beldest ze thuͦn, da er doch heylig und muͤd, die nachtt vorhanden und die zyt zuͦ kurtz, das ich kheins schrybens hette moͤgen erwarten, und er hütt widerum gan Bernn veryten muͤsen, hatt er mich gebetten, ime die sachen mit schryben gegen üch ußzerichten; weliches ich ouch arbeyt halb, wan mirs die gedachtnus wie der will gaͤbe, mit fröuden ze thuͦn, wol geneygtt.</s>
+12585.xml	p8369	p495	1546	t10	<s n="45">Grüssend mir üwer hußgsind, all guͦt herren und bruͤder, sonders herren R.</s>
+12586.xml	p495	p8049	1546	t5,t10	<s n="5">Der hatt vil von <persName ref="p4091">Zwynglin</persName> mitt <persName ref="p3559">Hallwyl</persName> geredt, vil gevragt und <persName ref="p4091">Zwinglium</persName> geruͤmpt, mich heyssen gruͤssen und das ich wölle vermanen die kylch, gott anzeruͤffen umb gnad, und min herren ze berichten, das es dem keysser umb die religion und monarchy ze thuͦn sye, nitt umb den unghorsam etc.</s>
+12608.xml	p8354	p495	1546	t10	<s n="31">Grüesst mir all liebe herrn unnd bruder.</s>
+12608.xml	p8354	p495	1546	t10	<s n="69">Gruesst mir wyb unnd kynnd, die herren burgermaister, stattschriber unnd minen <persName ref="p8011" sent="to">Gvaltherum</persName>.</s>
+12616.xml	p495	p3590	1546	t10,t11	<s n="14">U. f. g. embüt sinen gruͦß min gunstiger herr <persName ref="p1888" sent="to">Johanns Rodolff Lavater</persName>, Burgermeister, sampt sinen willigen diensten.</s>
+12620.xml	p495	p8418	1546	t10	<s n="19">Gruͤssend mir <persName ref="p1278" sent="to">Gastium</persName>, mitteylend imm diß nuwe zytung und gaͤbend imm diß sin register.</s>
+12634.xml	p8467	p495	1546	t2,t5	<s n="16">Sind gott empfolhen und gruͤßend mir von hertzen üwre mittarbeyter, prediger und leßmeyster alle.</s>
+12635.xml	p3927	p495	1546	t11	<s n="27">Allen 4 heren bedank ich mych irer grieß frayntlych, myt byt, ir wellet myr die heren wyderum griesen unnd mein willyg dyenst antzaygenn.</s>
+12643.xml	p8018	p495	1546	t10,t11	<s n="96">Laßt üch alle vast gruͤßen.</s>
+12644.xml	p495	p3590	1546	t2,t10	<s n="15">Es last u. f. g. gar früntlichen gruͤssen herr <persName ref="p1888" sent="from">Johan Rodolff Lavatar</persName>, Burgermeister, welcher u. f. g. wolfart, heyl und syg zum hoͤchsten begaͤrt, und die zuͦ fürdern mitt allem sinem vermugen gantz willig ist.</s>
+12651.xml	p495	p8443	1546	t2,t3	<s n="14">Es gruͤst üch und die gefatter min liebe hußfrow.</s>
+12654.xml	p495	p8418	1546	t10,t11	<s n="25">Den gruͤssend mir trüwlich.</s>
+12662.xml	p8354	p495	1546	t3,t10	<s n="25">Gruesst mir die herrn burgermaister, <persName ref="p8339" sent="to">statschriber</persName>, d. <persName ref="p8011" sent="to">Rodolphum</persName>, <persName ref="p1283" sent="to">Gessnerum</persName>, <persName ref="p8171" sent="to">Bibliandrum</persName>, <persName ref="p1214" sent="to">Frisium</persName>, <persName ref="p8127" sent="to">Pellicanum</persName>, <persName ref="p3988" sent="to">Gvolfium</persName> atque totum musarum cęlum.</s>
+12665.xml	p8055	p495	1546	t10	<s n="18">Er klagt sichs gantz hoch und empeut euch vyl vyl dienst und gruͦtz.</s>
+12673.xml	p8055	p495	1546	t10	<s n="56">Sagt allen guͦten herren und freunden vyl, vyl liebs, dienst,  guͦts und gruͦtz.</s>
+12699.xml	p495	p8055	1546	t2,t10	<s n="32">Gruͤssend mir minen herren <persName ref="p7495" sent="to">burgermeister</persName>, üwern <persName ref="p8178" sent="to">bruͦder</persName> und vettern Juncker <persName ref="p4082" sent="to">Conradt Zwicken</persName>.</s>
+12709.xml	p8354	p495	1546	t10,t11	<s n="23">Grüesst mir yederman unnd sagt mynem furgeliebten herrn unnd bruder <persName ref="p8011" sent="to">Rodolpho Gvalthero</persName> mein gruzs und dienst.</s>
+12714.xml	p8440	p495	1546	t10	<s n="25">Grüßen mir zu taußend malen uwer lieb hausfrow und kinder, herren <persName ref="p8127" sent="to">Pellicanum</persName>, dominum <persName ref="p8171" sent="to">Theodorum</persName> und alle lieben pruder.</s>
+12714.xml	p8440	p495	1546	t10	<s n="26">Eß grüßt uch consul <persName ref="p1257" sent="from">Funckius</persName>, d. d. <persName ref="p3994" sent="from">Huldrichus</persName> medicus und alle lieben pruder, <persName ref="p8009" sent="to">Joannes Schmyd</persName> sonderlich.</s>
+12731.xml	p8354	p495	1546	t2,t10	<s n="50">Gruessennd von meinen wegen die herrn burgermaister, <persName ref="p8339" sent="to">statschriber</persName>, <persName ref="p8011" sent="to">Gvaltherum</persName> atque alios id genus, quibus nihil mihi est suavius.</s>
+12734.xml	p495	p1704	1546	t4,t6	<s n="21">Min liebe hußfrow last üch vast früntlich gruͤssen.</s>
+12740.xml	p495	p350	1546	t2,t10	<s n="15">Dem wytberuͤmpten und getruwen herren <persName ref="p5800" sent="to">doctorn Meggenbach</persName> woͤllend widerumb in minem und mines lieben sons <persName ref="p8011" sent="from">Gwaltheri</persName> namen früntlich gruͤssen und imm von uns alle lieb und dienst anzeigen.</s>
+12740.xml	p495	p350	1546	t2,t10	<s n="25">Gruͤssend mir h. <persName ref="p3138" sent="to">Theobaldum Tamerum</persName>, minen lieben bruͦder  imm herren, und andere, die liebe zuͦ mir habend.</s>
+12747.xml	p8354	p495	1546	t10	<s n="20">Grüesst mir all lieb herren unnd freunnd.</s>
+12756.xml	p8055	p495	1546	t5,t10	<s n="28">Es gruͤtzt euch sehr fruntlich min lieber bruͦder, ouch vetter <persName ref="p4082" sent="from">Conrad Zwick</persName>.</s>
+12756.xml	p8055	p495	1546	t5,t10	<s n="30">Gruͤtzt all guͦt herrn und frund.</s>
+12766.xml	p495	p8055	1546	t2,t10	<s n="32">Gruͤssend mir üwern lieben <persName ref="p8178" sent="to">bruͦder</persName> und <persName ref="p4082" sent="to">vettern</persName>, mine günstige herren, und versaͤhend üch zuͦ uns alle zyt aller trüw und rechter liebe.</s>
+12768.xml	p495	p8418	1546	t10	<s n="14"><persName ref="p1278" sent="from">Gastium</persName> gruͤssend mir und sagend imm, woͤlle er die wollen oder bescheid von der wollen zuͦ würcken schicken, soͤlle oder moͤge ers by disem botten thuͦn.</s>
+12771.xml	p495	p8418	1546	t10	<s n="26">D. <persName ref="p8032" sent="from">Dryandrum</persName>, deß ich gester gewartet (aber gedencken mag, imm sye ze schaffen worden), gruͤssend mir.</s>
+12776.xml	p1278	p495	1546	t1,t10	<s n="19">Gruesset mir ewer <persName ref="p8051" sent="to">hußfrowen</persName> und kinder alle, etc.</s>
+12787.xml	p495	p8418	1547	t10	<s n="27">Gruͤssend mir inn und d. <persName ref="p8032" sent="to">Dryandrum</persName>, desse brieff mir worden.</s>
+12788.xml	p8055	p495	1547	t10,t11	<s n="45">Gruͤzt all guͦt herren und freund.</s>
+12788.xml	p8055	p495	1547	t10,t11	<s n="46">Euch gruͤzt yederman.</s>
+12795.xml	p8055	p495	1547	t10,t11	<s n="72">Sagt allen guͦten herren und freunden vyl, vyl dienst, guͦts und gruͦtz, und vermanend yederman, gott fuͤr uns ze bitten.</s>
+12803.xml	p8055	p495	1547	t10,t11	<s n="44">Danckt und gruͤtzt euch fruntlich.</s>
+12803.xml	p8055	p495	1547	t10,t11	<s n="49">Gruͤtzt all guͦt herren und freund.</s>
+12806.xml	p495	p8418,p1278	1547	t10	<s n="12"><persName ref="p8032" sent="to">Dryandrum</persName> gruͤssend mir.</s>
+12806.xml	p495	p8418,p1278	1547	t10	<s n="15">Gruͤssend mir <persName ref="p4715" sent="to">Episcopium</persName>, <persName ref="p5213" sent="to">Hervagium</persName>, etc.</s>
+12812.xml	p8055	p495	1547	t10	<s n="58">Gruͤzt alle menschen.</s>
+12816.xml	p495	p8055	1547	t10	<s n="69">Die gruͤssend mir.</s>
+12820.xml	p8055	p495	1547	t10,t11	<s n="55">Gruͤtzt all guͦt herren und frund.</s>
+12823.xml	p495	p8055	1547	t2,t10	<s n="41">Grust mir unsere lieben vertruwten.</s>
+12824.xml	p8055	p495	1547	t5,t10,t11	<s n="52">Sagt allen guͦten herren und freunden alles guͦtz und vyl gruͦtz, sonderlich ewerm gantzen hausgesind.</s>
+12827.xml	p8055	p495	1547	t10,t11	<s n="22">Grutzt all guͦt herren und freund, sonderlich administros tuos in domino.</s>
+12839.xml	p8055	p495	1547	t10,t11	<s n="38">Sagt allen guͦten herren, freunden und bruͤdern alles lieb, guͦtz und gruͦtz sampt empietung miner guͦtwilligen diensten, zuͦvoran ewerm l. husgesynd, und vergesst unser nitt!</s>
+12866.xml	p495	p8049	1547	t10	<s n="13">Gruͤssend mir früntlich <persName ref="p3878" sent="to">Widenhuͦbern</persName> und <persName ref="p6355" sent="to">Saylern</persName> sampt anderen guͦten herren und fründen.</s>
+12890.xml	p8055	p495	1547	t5,t10	<s n="25">Das wellt dem guͦten <persName ref="p1419" sent="to">Hans Schoͤner</persName> anzoͤgen und inn von minen wegen freuntlich und bruͤderlich gruͤtzen mitt entschuldigung meines nitt schreibens, dann ich warlich weder zeyt noch muͦsß hab.</s>
+12890.xml	p8055	p495	1547	t5,t10	<s n="27">Sagt den ewern allen mitt wunschung gottes gnad vyl gruͦtz und guͦts von mir, und bittend mitt allen trüwen für unß und unser kirchen, das wir in seinen gnaden durch all diß schwaͤr anfechtungen kommen moͤgind und der herr Christus sein reych allenthalb erweytere und bestaͤtige.</s>
+12891.xml	p495	p8055	1547	t10,t11	<s n="8">Gruͤssend mir j. <persName ref="p4082" sent="to">Conradten</persName>.</s>
+12896.xml	p8055	p495	1547	t10	<s n="26">Gruͤst all guͦt herren und fründ.</s>
+12899.xml	p495	p1278	1547	t10	<s n="13">Die gruͤssend mir, etc.</s>
+12902.xml	p8055	p495	1547	t10	<s n="38">Gruͤtzt alle menschen, ewer hauß zuͦvorderst.</s>
+12907.xml	p8018	p495	1547	t10,t11	<s n="27">Soll uff den 4. april jederman grüst sin, ins faͤld zuͦ ziehen.</s>
+12911.xml	p8055	p495	1547	t10	<s n="68">Gruͤtzt ewer lieb hausgesind mitt allen guͦten herren und frunden.</s>
+12912.xml	p8055	p495	1547	t10	<s n="16">Gruͤzt die ewern all und seind von den unsern ouch gegruͤzt.</s>
+12918.xml	p7879	p495	1547	t2,t3	<s n="16">Myn husfrouw thuͦt vast gruͤssen.</s>
+12930.xml	p495	p8055	1547	t10	<s n="49">Gruͤssend mir üwer huß und alle guͦte herren und fründ.</s>
+12935.xml	p8055	p495	1547	t10	<s n="41"><persName ref="p8049" sent="from">Vadianus</persName> hat mir auff sontag nechst ain gruͦtz by unserm Engellender zuͦ empotten (<persName ref="p506" sent="to">Buttlerus</persName> ist zu S. Gallen gewesen).</s>
+12940.xml	p8055	p495	1547	t10	<s n="45">Euch grussend min lieber bruͦder und vetter.</s>
+12976.xml	p8055	p495	1547	t10	<s n="10">Grutzt yederman.</s>
+12977.xml	p2237	p495	1547	t2,t5	<s n="18">Gruͤssend mir uwer lieb hußfrowen, doctorn <persName ref="p1283" sent="to">Geßnern</persName>, <persName ref="p8171" sent="to">Theodorum</persName>, <persName ref="p8011" sent="to">Gwaltherum</persName> und all guͦt fründ.</s>
+13004.xml	p8055	p495	1547	t10	<s n="15">Gruͤtzt alle menschen von hertzen.</s>
+13009.xml	p495	p8055	1547	t10	<s n="29">Gruͤssend mir h. <persName ref="p2916" sent="to">Sebastian Schertlin</persName>, üwern bruͦder und vetter.</s>
+13017.xml	p8055	p495	1547	t7,t10	<s n="31">Gruͤtz ewer liebs hausgesind sampt allen herren und guͦten frunden.</s>
+13017.xml	p8055	p495	1547	t7,t10	<s n="32">Die unsern empietend euch vyl dienst, guͦtz und gruͦtz, sonderlich mein lieber <persName ref="p8178" sent="to">bruͦder</persName> und <persName ref="p4082" sent="to">vetter</persName>.</s>
+13019.xml	p8018	p495	1547	t10,t11	<s n="121">Sonst weiß ich nüt, dann gruͤtzend mir alle herren und fründ, auch üwer gantz husgsind, und bittend gott, das er uns uß disem jamer helffe.</s>
+13070.xml	p8055	p495	1547	t10,t11	<s n="17">Es schickend sich all sachen zuͦ grosser verfolgung und gruͦsammem bluͦtvergiessen.</s>
+13079.xml	p3927	p495	1547	t6	<s n="33">Griest myr alle ewer mytbruder, die das wort deß heren liebenn.</s>
+13089.xml	p8055	p495	1547		<s n="55">Wellt den ewern allen vyl, vyl dienst, guͦtz und gruͦtz sagen.</s>
+13102.xml	p495	p8055	1547	t2,t10	<s n="20">Gruͤssend mir die üwern.</s>
+13115.xml	p8055	p495	1547	t10,t11	<s n="24">Die meinen all, min lieber <persName ref="p8178" sent="to">bruͦder</persName> und <persName ref="p4082" sent="to">vetter</persName>, empietend euch all vyl, vyl guͦts und gruͦtz.</s>
+13115.xml	p8055	p495	1547	t10,t11	<s n="31">Wellt <persName ref="p8018" sent="to">in</persName> von mir ouch gantz fruntlich gruͤtzen.</s>
+13122.xml	p8055	p495	1547	t10	<s n="25">Sagt dem h. <persName ref="p2916" sent="to">S. Schärtlin</persName> und <persName ref="p8498" sent="to">Marcellen</persName> vyl dienst, guͦtz und gruͦtz.</s>
+13148.xml	p8055	p495	1547	t2,t10	<s n="9">Empiet euch daneben vyl dienst, guͦts und gruͦtz, mitt wunschung hunderttausend guͦter jar und ewigs lebens euch und allen liebverwandten.</s>
+13148.xml	p8055	p495	1547	t2,t10	<s n="47">Gruͤtzt all ewer hausgesind und liebverwandten mitt allen bruͤderen.</s>
+1323.xml	p8018	p495	1551	t6,t8	<s n="29">Salutat te vicissim d. quaestor, der hatt gester sin ampt uffgen; man hatt inn sin aber nitt wellen erlaßen.</s>
+1338.xml	p8018	p495	1551	t5	<s n="12">Gruͤtzend uns herwider alle bruͤder.</s>
+134.xml	p8055	p495	1548	t2,t10	<s n="16">Aber ich warten all stund meines lieben schwagers <persName ref="p8500" sent="from">Peter Schären</persName> des jungen, der euch allweg gantz fruntlich bevilcht von seinen wegen ze gruͤssen; der wirt wol allen bschaid sagen konnen; allsdann schrib ich weyter.</s>
+1341.xml	p8055	p495	1551	t10	<s n="6">Mein lieber schwager <persName ref="p8500" sent="from">Peter Scher</persName> uff gestert, der euch doch vyl, vyl dienst, gruͦß und alles guͦts ze sagen und sich in getrüw fürpitt bevilcht.</s>
+136.xml	p8440	p495	1548	t5,t6,t11	<s n="22">Grutß mir dein liebe hausfrow und kinder sampt allen lieben herren und pruderen, so mitt unß im weingarten gottes fechten.</s>
+1382.xml	p8018	p495	1551		<s n="22">Üch und üwer gantz hußgsind gruͤßt min volk.</s>
+1382.xml	p8018	p495	1551		<s n="23">Sind von gott alle gruͤßt.</s>
+1470.xml	p8055	p495	1551	t10	<s n="19">Gruͤtzt ewer hauß, auch all guͦt herren und freund.</s>
+1474.xml	p8018	p495	1551	t10	<s n="12">Üch gruͤßt min her seckelmeister <persName ref="p8012" sent="from">Haller</persName>, venner <persName ref="p8389" sent="to">imm Hag</persName>, <persName ref="p8417" sent="to">Musculus</persName> und andere.</s>
+1499.xml	p182	p495	1551	t11	<s n="13">Grüst mir herrn <persName>Jacoben</persName>, den herrn statschreiber von Lindaw, eur und ire haußfrawen, und möcht leiden, der statschreiber het sich aus ursachen uff montag schiristen gewißlich zu mir gen Aro zum Wilden Mann verfuegt; dann ich het mit im zu reden, das sich nit schreiben laßen will, schigkh deßhalb disen aigen poten.</s>
+1535.xml	p8018	p495	1552	t5	<s n="21">Gruͤßend uns allen die üweren.</s>
+157.xml	p8440	p495	1548	t5	<s n="16">Ich soll dich zu taußentmalen grüßen von meynem lieben mittarbayter <persName ref="p330" sent="from">Bartholomeo Bertlino</persName>.</s>
+157.xml	p8440	p495	1548	t5	<s n="17">Es grüßt dich meyn liebe hausfrow sampt deinem gemahel.</s>
+1625.xml	p8098	p495	1552	t10	<s n="8">Der baiden herrn burgermeister <persName ref="p1888" sent="to">Lavaters</persName> und <persName ref="p1419" sent="to">Haben</persName> zu enpotten grüessen bedancken wir uns, entpietten inen widerumb unsern grus und günstigen willen.</s>
+1702.xml	p8440	p495	1552	t5,t11	<s n="21">Gruß mir din liebe husfrow und das gantz hußgesind.</s>
+1702.xml	p8440	p495	1552	t5,t11	<s n="23">Es grußt dich der <persName ref="p3494" sent="from">von Dießbach</persName>, der schuldheyß und <persName ref="p8369" sent="from">Hammanus</persName>, myn lieber gefatter landschryber; der ist nun byß und die sechst woch kranck, hoff aber besserung.</s>
+1711.xml	p8018	p495	1552	t2,t10	<s n="12">Min volk laßt üch und die üweren fast gruͤßen; deßglich thuͦt auch <persName ref="p8417" sent="from">Musculus</persName> und sin hus.</s>
+1715.xml	p654	p495	1552	t10	<s n="10">Got sye mimt üch; gruͤtzend uns die geliepten bruͤder allsammen.</s>
+1715.xml	p654	p495	1552	t10	<s n="11">Üch lassen gruͦtzen <persName ref="p8013" sent="from">Heymius</persName>, <persName ref="p3196" sent="from">Tscharner</persName>, <persName ref="p8359" sent="from">Philippus</persName>, <persName ref="p6831" sent="from">Traversus</persName> und <persName ref="p6130" sent="from">Pontasella</persName>.</s>
+1739.xml	p654	p495	1552	t10,t11	<s n="5">Die cardinäl sind grüst gsyn heimlich in iren hüsern mit kriegrüstung.</s>
+1739.xml	p654	p495	1552	t10,t11	<s n="6">Vor der stadt Rom ist grüst gsyn <persName ref="p17872" sent="to">Don Dego</persName>, der obrest zu Sena gsyn ist, mit sinem hispanischen zug, auch verborgenlich und so der pabst spat zo enen rytte, inn zu begrüssen.</s>
+1739.xml	p654	p495	1552	t10,t11	<s n="13">Üch grüssend alle gute herrn und brüder.</s>
+1743.xml	p8098	p495	1552	t4,t5	<s n="7">Wollen burgermaister <persName ref="p1888" sent="to">Lavatern</persName> und <persName ref="p1419" sent="to">Haben</persName> unsern gnädigen grus anzaigen mit gnädigem beger, das sie jetzund bei dem guten wätter ain vässlin mit siessen most auff ain seiten legen wöllen, damit, wann wir ains komen, wie wir dann auch gern thun wolten, so unser geschäfft das zuͦlassen, wir solche versuchen mögen.</s>
+176.xml	p8440	p495	1548	t5,t11	<s n="16">Grüß mir dein liebe hausfrow, alle liebe herren und pruder.</s>
+176.xml	p8440	p495	1548	t5,t11	<s n="17">Eß grüßt dich früntlich <persName ref="p330" sent="from">Bartholomeus Berthlinus</persName> und <persName ref="p8009" sent="from">Joannes Schmyd</persName> etc.</s>
+1775.xml	p8098	p495	1552	t5	<s n="10">Tragen auch mit euwer schwachait ain gantz gnädig mittlaiden, und wollet euwerm schwager dem <persName ref="p8011" sent="to">Gwalther</persName> unsern gantz gnädigen und genaigten grus anzaigen.</s>
+180.xml	p8108	p495	1548	t2,t5	<s n="26">Bevilch mich üch alzit mit pitt, wellind mir min lieben hern bruͦder <persName ref="p1214" sent="to">M. Johann Friesen</persName> grüssen.</s>
+1830.xml	p9697	p495	1553	t2,t3	<s n="9">Her <persName ref="p18263" sent="from">Niclauß Brem</persName> last uch hinwider seinen grüß unnd dinst durch mich ansagen.</s>
+184.xml	p495	p2305	1548	t11	<s n="25">Es gruͤssen ü(wer) w(yßheit) min gnedig herren beide burgermeister <persName ref="p1419" sent="from">H. Hab</persName> und <persName ref="p1888" sent="from">H. Lavater</persName>, mit welcher vorwüssen ich disen brieff geschriben hab.</s>
+1896.xml	p8061	p495	1553	t2,t9	<s n="20">D. <persName ref="p8415" sent="to">Mart. Micronius</persName> te iussit plurimum salvere.</s>
+191.xml	p8018	p495	1548	t11	<s n="45">Der laßt üch fast grüßen; stat in einem kauff mit junker <persName ref="p3559" sent="from">Hartman von Halwyl</persName> eines sitzes halb zuͦ Araw; weiß noch nitt, wie es stat.</s>
+191.xml	p8018	p495	1548	t11	<s n="62">Es grüßt üch auch sonderlich min herr schuldtheß <persName ref="p2305" sent="from">Nägeli</persName>, inn deß nammen ich zuͦ guͦtem theil schriben; dann er mir befolhen, in sinem nammen zuͦ schriben und üch zuͦ danken üwerß fründtlichen zuͦ schribenß; er sye bereit, üch wo er könn, zuͦ dienen; er habe selb nitt vyl zuͦ schriben, zuͦ dem er ungern schrib und inn sur ankomme.</s>
+191.xml	p8018	p495	1548	t11	<s n="64">Er befilcht mir auch sonderlich, si beid min herren burgermeister wider zuͦ grüßen.</s>
+191.xml	p8018	p495	1548	t11	<s n="65">Das wellend von mindtwegen usrichten und si auch in minem nammen grüßen.</s>
+1927.xml	p8098	p495	1553	t2,t4	<s n="7">Beiden burgermaistern bey euch sollet ir unnsern gnädigen grus ansagen.</s>
+1938.xml	p8475	p495	1553	t2,t5	<s n="18">Min liebe hußfrow latt üch und üweren eren lieben egmachel fast gruͤtzen.</s>
+1938.xml	p8475	p495	1553	t2,t5	<s n="19">Grützen mir m. <persName ref="p1214" sent="to">Hanß Friesen</persName>.</s>
+1973.xml	p1918	p495	1553	t11	<s n="17">Mit pit, mir all ewer gut herren und freund grietzen <persName>Hanß Ratz</persName> und ewer haußgesind.</s>
+1976.xml	p527	p495	1553	t9,t10	<s n="21"><persName>Schwitz</persName> lost uns alle gruͤssen, und es stand wol um yn an gelt.</s>
+2028.xml	p8051,p495	p487	1553	t1	<s n="7">Wedes es ist, so heiss sis uffschriben und gruͤtz mir si trülich, und las dine schuͦ nitt zergan, gib sy zbuͤtzen und biß husslich.</s>
+2028.xml	p8051,p495	p487	1553	t1	<s n="10">Es gruͤst dich der ätty.</s>
+2032.xml	p495	p487	1553	t3	<s n="20">Das muͤterli last dich vast gruͤssen und sagt dir, du söllist flyssig sin und din zyt wol anlegen.</s>
+2032.xml	p495	p487	1553	t3	<s n="37">Das <persName>Bridli</persName> last dich gruͤssen.</s>
+2044.xml	p8055	p495	1553	t6	<s n="21">Wellt e. e. liebe hus frowen vyl vyl dienst, liebs, guͦts und gruͦtz sagen und all euwerm husgesind von mir und miner lieben husfrowen und den herren getrulich und ernstlich für uns bitten.</s>
+2048.xml	p182	p495	1553	t4,t5	<s n="4">Griest mir eur liebe haußfrawen und kinder, auch in sunderhait meinen lieben wirdt, euren brueder her <persName ref="p527" sent="to">Hannsen</persName>.</s>
+220.xml	p8018	p495	1548	t10	<s n="3">Uff hütt ist min gn(ädigen) herren fürkommen, wie es mit Costentz stand; hatt man ylends alle posten zroß und zfuͦß bsetzt, auch allen vögten gschriben, sich zuͦ rüsten und uff den nechsten bscheid grüst sin uf zuͦ sin; deßglich schript man auch gen Fryburg und Solloturn.</s>
+2200.xml	p8018	p495	1554	t1,t2	<s n="9">Üch gruͤßt min her seckelmeister <persName ref="p8012" sent="from">Haller</persName>, bi dem ich hütt mittsampt m. <persName ref="p4213">Hans Asper</persName> zmorgen gäßen.</s>
+222.xml	p8055	p495	1548	t10,t11	<s n="27">Gruͤtzt alle menschen.</s>
+236.xml	p8049	p495	1548	t11	<s n="35">Mitt pitt, wellend söllichs herren burgermaister <persName ref="p1888" sent="to">Lavatter</persName> auch ainzaygen und inn von meinetwegen treulich gruͤßen.</s>
+2386.xml	p3494	p495	1554	t2,t10	<s n="15">Min husfrouw thuͦtt uch und uwer eeren husfrouw fast frunntlich grussen und fyll gutz wunschen, mit allweg guͦtter hoffnung, sy werde uch noch anfartt zuͦ Bern gesechen, mit fruntlicher bitt, so sich semlichs zuͦtragen wurd, ir wellent bin uns alss ein schlechte, aber doch ein guͦttwillige herberg fur guͦtt annemmen und inkoͤren.</s>
+2386.xml	p3494	p495	1554	t2,t10	<s n="16">Grussen unss herr <persName ref="p8011" sent="to">Waltherum</persName>, den meyster <persName ref="p1214" sent="to">Fryessen</persName>, <persName sent="to">Osyam</persName>, uwren dochterman und all guͦtt herren und gesellen.</s>
+2428.xml	p3494	p495	1554	t5,t10	<s n="10">Min husfrouw thut uch und uwer eren husfrouw fast fruntlich grussen und vyl guͦtz sagen.</s>
+2428.xml	p3494	p495	1554	t5,t10	<s n="11">Grussen mir d. <persName ref="p8011" sent="to">Waltherum</persName>, <persName ref="p1214" sent="to">Frysium</persName> und uwer tochtermann und sagent ym, ich warte alweg sines bescheides.</s>
+25.xml	p8055	p495	1548	t5,t11	<s n="17">Meinen gunstigen, lieben schwager Marcell Dietrichen sampt seiner lieben husfrowen wellt von mir und den minen allen fruntlich gruͤtzen.</s>
+2552.xml	p3494	p495	1555	t10	<s n="18">Min husfrouw thut uch sampt uwer eren husfrouw fast fruntlich grussen und fyll fyl guͦtz sagen.</s>
+2552.xml	p3494	p495	1555	t10	<s n="19">Wellend mir hern <persName ref="p8011" sent="to">Walther</persName> und uwerm thochterman und meyster <persName ref="p1214" sent="to">Hans Friessen</persName> allen fyl guͦtz sagen und fruntlichen grussen.</s>
+257.xml	p495	p8418	1548	t10,t11	<s n="40">Dise nüw zytung von Constantz mögend ir minem gnedigen herren von Wirtemberg anzeigen sampt minem gruͦß und aller underthänikeit.</s>
+2588.xml	p2700	p495	1555	t1,t2	<s n="9">An demm tuͦnd yr mir ein dienst doran, und wormit ich aüch kan dienen, so schaft und gepietten allzeitt; sollen yr mich willige finden, und mer pit ich aüch, yr wellen mir gruͤzen denn amma <persName ref="p8071" sent="to">Fogler</persName> und <persName ref="p1283" sent="to">Kuͦredt Gesller</persName> und magistro <persName ref="p1214" sent="to">Hans Fries</persName> und her <persName ref="p5093" sent="to">Hainrich Gölldli</persName> und sein hausfrowe.</s>
+2595.xml	p8036	p495	1555	t1,t2	<s n="7">Gruessen mir min liebe baß, euwre khinder, tochtermenner, und wo ir pottschafft, minen bruder.</s>
+260.xml	p8055	p495	1548	t10,t11	<s n="23">Gruͤtzend all guͦt herren und fründ und zuvor ewer gantz haußgesind.</s>
+2609.xml	p9697	p495	1555	t4,t9	<s n="18">Her <persName ref="p18263" sent="from">Clauß Brom</persName>, <persName sent="from">Jost Glußer</persName> und m. <persName ref="p20803" sent="from">Heinrich Lautensack</persName> lassen uch iren gruß und dinst sagen.</s>
+267.xml	p8055	p495	1548	t10,t11	<s n="31">Sagend ewerm hauß vyl vyl guͦts wunschs von mir zuͦ allem guͦtem und gruͤtzt all guͦt herren und bruͤder.</s>
+267.xml	p8055	p495	1548	t10,t11	<s n="32">Min hertz-liebe <persName ref="p4334" sent="from">schwöster</persName> empeut euch vyl guͦts und grutz, begert ewers fuͤrpitts.</s>
+2679.xml	p495	p8119	1555	t2	<s n="8">Gruͤssend uns üwer eeren hußfrowen; es gruͤst üch all min volck.</s>
+2695.xml	p495	p487	1555	t2,t3	<s n="40">Sy gruͤssend dich alle trüwlich.</s>
+2715.xml	p495	p66	1555	t2,t10	<s n="21">Min hußfrow last dich, die din und dine kind früntlich gruͤssen, deßglych ich ouch.</s>
+2789.xml	p8018	p495	1555	t2	<s n="20">Gruͤsend mir die üweren all.</s>
+2807.xml	p8359	p495	1556	t5	<s n="33">Dan wiewol eüwerem und unserem trüwen Pund, desglichen unseren lieben aid- und puntzgnossen der Fünff Orten niemand anderst dan guͦtz truwen sol, das si ützid anderst fürnemend und thüend, dan was ynen wol anstaat und recht ist, staat es dannacht nit wol an eüweren gmainden und kilchen, der götlichen gerechtikhait nach zuͦ reden, welliche wir predigen und fürderen sollend, das sy, so us götlichem wort bericht mit hertzen und mundt bekennendt, das der bapst der recht war Entchrist sye, ja, sollichen gmainden staat es nit wol an, das sy wider ieren glouben und ire bekantnuß, ungenöt und ungezwungener sach, selbs gen Rom louffend zuͦ dem bapst, den verderblichen Entchrist, den grüessend, dem z\'fuͦssen fallend, dem nidergeströwt d\'schuͦch küssend und schier als iren Got Anbettend und vererendt.</s>
+2807.xml	p8359	p495	1556	t5	<s n="39">wissend ir nit, was der hailig <persName ref="p5213">Joannes</persName> uns geschriben hatt: "So jemants zuͦ eüch kumpt und pringt dise ler nit, den nemmend nit zuͦ eüch ins hus und grüessend in ouch nit; dan wer in grüesset, der hat gmainschafft mit sinen bösen wercken?</s>
+2807.xml	p8359	p495	1556	t5	<s n="40">Wie gdürvend dan ir zuͦ dem bapst wellen und den grüessen, ja ouch anbetten?</s>
+2826.xml	p8359	p495	1556	t2,t3	<s n="11">Es hand mir hüt empfolhen beid herren burgermaister, <persName ref="p3196" sent="from">Hans Tscherner</persName> und <persName ref="p2043" sent="from">Ambrosi Marty</persName>, ich sol eüch in irem nammen vast grüessen und vil guͦtz wünschen.</s>
+2826.xml	p8359	p495	1556	t2,t3	<s n="13">Es grüeßt eüch ouch der pater <persName ref="p654" sent="from">Comander</persName>.</s>
+2845.xml	p8042	p495	1556	t2	<s n="6">Ich und min husfrouw und mine kind land alle fast grouͤtzen und ein gantze früntschaft.</s>
+2866.xml	p8130	p495	1556	t10	<s n="24">Gruͤtzend mir üwer gsind, min her gfatter, h. <persName ref="p1888" sent="to">Lavatern</persName> und unsere lieben bruͦder <persName ref="p8011" sent="to">Gualtherum</persName>, <persName ref="p1214" sent="to">Frisium</persName> etc.</s>
+2924.xml	p8130	p495	1556	t10	<s n="12">Gruͤßend mir all guͦtti lütt etc.</s>
+2942.xml	p495	p3067	1556	t2	<s n="20">Gruͤssend mir und miner lieben hußfrowen üwer eerenhußfrowen, und gott sye mitt üch.</s>
+302.xml	p8036	p495	1548	t2	<s n="3">Bin aber inn kurtzem, so ich von Wien anheimsch kom, zuͦ üch und miner lieben basen, die ir mir gantz fründtlich gruessen sollen, ze khomenn inn willen.</s>
+302.xml	p8036	p495	1548	t2	<s n="6">Hiemit lassen mich üch bevolhen sein und gruesen mir min hertzliebe basen.</s>
+3042.xml	p8055	p495	1556	t3	<s n="9"><persName ref="p3927" sent="from">Welserus</persName> gruͤtzt euch uff das fruntlichst, zoͤgt an, der keiser nemme sinen weg in Hispanien, <persName ref="p20183">duca de Alb</persName> fuͤre die sachen, zuͦ Inspruck und anderschwa grosß volck angenomen.</s>
+3069.xml	p8417	p495	1556	t4,t6	<s n="16">Wa er zu euch in die stat kheme, wellent ym mynen gruß ansagen und dißes anzeigen; ich truw ym nach so vil vonn alter fründtschaft wegen, er werden mich auch bedencken, darumb ich yn will gepeten haben.</s>
+3095.xml	p8352	p495	1557	t1,t2	<s n="8">Der heyst üch alle zum allerfründlichesten gruͤssen.</s>
+3095.xml	p8352	p495	1557	t1,t2	<s n="9">Myn hußwirth unnd ich baͤtten üch, wellennd unns die üweren alle zum hoͤchsten gruͤssen unnd nitt faͤlen uff den genanten tag unns heymzesuͤchen; wellennd den anndren allen by zythen anzöugen.</s>
+31.xml	p8055	p495	1548	t4	<s n="26">Euch gruͤtzend die unseren all.</s>
+31.xml	p8055	p495	1548	t4	<s n="27">Gruͤtzt die ewern von meinen wegen und bettend mitt allen truwen für unß. Gott mitt euch hie und dort ewigklich.</s>
+311.xml	p495	p8055	1548	t11	<s n="45">Es gruͤßend üch und die üwern mine lieben bruͤder <persName ref="p8417" sent="from">Musculus</persName> und <persName ref="p8440" sent="from">M. Gervasius</persName> sampt andern unsern bruͤdern.</s>
+3165.xml	p4058	p495	1557	t2	<s n="6">Gruͤssend mier dschwester unnd die üweren allesamen.</s>
+3213.xml	p495	p8098	1557	t4,t6	<s n="20">u. f. g. laßt min herr burgermeister <persName ref="p1419" sent="from">Hab</persName>, der kurtzverruckter tagen von u. f. g. wol empfangen und eerlich gehalten, sinen gruͦß und alles guͦts ansagen etc.</s>
+326.xml	p8018	p495	1548	t2	<s n="14">Min her <persName ref="p8012" sent="from">seckelmeister Haller</persName>, herr <persName ref="p8389" sent="from">imm Hag</persName>, stattschriber laßend üch fast gruͤßen.</s>
+3306.xml	p8432	p495	1557	t3,t9	<s n="31">Ouch so grüßt mir trülich euwere ersame hußfrow, minen son und gantzer hußhab. etc.</s>
+3320.xml	p3927	p495	1557	t5,t10	<s n="12">Ewer erbere <persName ref="p8051" sent="to">hausfraw</persName> unnd die eweren lasen ich, die meynenn fast griesen.</s>
+3321.xml	p8055	p495	1557	t6,t10	<s n="16">Schribt unser W(elser) und bevilcht mir, euch vyl vyl dienst und gruͦtz von im zuͦzeschriben; er meint, die koofleut werdind sich nitt mehr insetzen lassen, gellt usszelichen dergstalt.</s>
+3357.xml	p495	p8009	1557	t10,t11	<s n="19">"Vatter, es ist guͦt umb mich, und gruͦtz dich und die muͦter fast trulich etc."</s>
+344.xml	p8055	p495	1548	t10,t11	<s n="37">Myn lieber bruͦder ist uff sinem Gyrsperg und zuͦ Emishofen ain zytle gewesen, aber yetz ouch zuͦ uns heruß kommen, last sein liebe hausfrouwen mitt aim tail der kind uff dem Gyrsperg hausen, empeut euch gar gar vyl hertzliches gruͦtz mitt allem guͦtem, byß er euch selbs schreiben kan, ist noch gar unstarck seines magenwees halber.</s>
+3464.xml	p495	p3099	1558	t2,t5	<s n="19">Ich mein je die sach guͦt, begären, ir wellind sy von mir grützen, ouch zuͦ üch nemmen herren <persName ref="p1754" sent="to">Joan(nem) Jungium</persName> und h(errn) <persName sent="to">Zügern</persName>, iren alten vogt, die ouch von minet wägen grüßen und ernstlich bitten, das best in diser sach ze thuͦn, damit wenig geschreigs und unwillens angerichtet werde.</s>
+3475.xml	p8354	p495	1558	t6	<s n="20">Gruesst mir yederman, die mich kennen.</s>
+3487.xml	p495	p8009	1558	t5	<s n="31">Grüssend mir minen h(erren) <persName ref="p3196" sent="to">Tsch(arner)</persName> und h(erren) b(urgermeister) <persName sent="to">Martin</persName> sampt andern minen guͦten herren und fründen.</s>
+3534.xml	p8055	p495	1558	t10	<s n="3">Er empeut euch sin fruntlich, willig dienst und vylfaltigen grutz etc.</s>
+3654.xml	p495	p8009	1558	t2	<s n="10">Grüssend mir h. <persName ref="p3590" sent="to">Philippen</persName>, h. <persName ref="p6130" sent="to">Pontasellen</persName>, vorab mine herren bürgermeister.</s>
+367.xml	p8018	p495	1548	t6	<s n="84">Min herren, beid seckelmeister und venner <persName ref="p8389" sent="from">im Hag</persName>, sind zuͦ Basell; wil üwer gruͤtz usrichten, so si wider kommind.</s>
+370.xml	p8018	p495	1548	t2	<s n="8">Gruͤtzend üwer husfraw und gantz husgsind von mir und den minen.</s>
+378.xml	p8018	p495	1548	t2,t10	<s n="16">Gruͤtzend mir her <persName ref="p1888" sent="to">Lafater</persName>.</s>
+378.xml	p8018	p495	1548	t2,t10	<s n="17">Es gruͤßt üch auch beid wider min her seckelmeister; bi dem fenner bin ich noch nitt gsin.</s>
+378.xml	p8018	p495	1548	t2,t10	<s n="18">Gruͤtzend üwer gantz husgsind von mir und den minen.</s>
+381.xml	p8055	p495	1548	t2,t10	<s n="27">Es gruͤtzt euch hie alle menschen mitt wunschung vyl tausender guͦter jar und ewig himmlischer fröd.</s>
+382.xml	p8018	p495	1548	t5	<s n="9">Es sind auch hie H. <persName sent="from">Michel</persName> und her <persName sent="from">Jacob von Biel</persName>; die laßen üch allsammen fast gruͤßen mitt sampt juncker <persName ref="p7879" sent="from">Nicklauß von Witenbach</persName>, H. <persName sent="from">Josen</persName>, H. <persName sent="from">Hansen</persName>, <persName ref="p3700" sent="from">Eberhart</persName> und <persName sent="from">Niklausen</persName>, auch von mim h. seckelmeister und fenner <persName ref="p8389" sent="from">Imm Hag</persName>.</s>
+3850.xml	p8432	p495	1559	t3,t10	<s n="49">Für all ander ist min bitt, ir welt mir euwer liebi hußfrow grüssen und euwer das gantz huß gsindt, denen allen ich ein frölich glückhafftig nüw jar wünschen thuͦn.</s>
+3850.xml	p8432	p495	1559	t3,t10	<s n="50">So welt mir ouch mine brüder <persName ref="p20466" sent="to">Hector</persName> und <persName ref="p20467" sent="to">Josua</persName> grüssen, und ist min bitt an sy, das sy sich woll haltend.</s>
+3865.xml	p3716	p495	1559	t2,t3	<s n="8">Min hussfrowe und min son <persName ref="p8432" sent="from">Fridrich</persName>, der comissario ze Cleven, und andren güt frint und gunner lond uch und uwre liebi husfrowe und uwre kinder alli fast grützen, und ver üch lieb ist.</s>
+395.xml	p2553	p495	1549	t2	<s n="6"><persName ref="p8011" sent="to">Rodolpho Gualthero</persName>, minem lieben bruͦder, sagend minen fruntlichen gruͦß; es latt euch mein bruͦder <persName ref="p2552" sent="from">Alexander</persName> vil guͦtz sagen.</s>
+396.xml	p8018	p495	1549	t5,t10	<s n="26">Die gruͤtzend von mir und minem husgsind.</s>
+396.xml	p8018	p495	1549	t5,t10	<s n="27">Es gruͤtzend üch mine herren wider, deß glich min her seckelmeister <persName ref="p8063" sent="from">Steiger</persName>, der mir hütt selichs ob dem imbiß befolhen.</s>
+397.xml	p495	p3067	1549	t10	<s n="17">Sölchs hab ich üch in yl bericht, hern <persName ref="p3067" sent="to">Hansen</persName> zuͦ berichten, und das ir inn früntlich von mir und den minen gruͤssind, imm sagind, das ich willig sye, imm alle zyt ze dienen und ze hälffen wie minem lieben bruͦder; dann er verdient mitt siner redliche, das imm jederman hold billich ist.</s>
+397.xml	p495	p3067	1549	t10	<s n="18">Gott bewar üch, üwer eeren hußfrowen; die gruͤst die min sampt minem gantzen huß.</s>
+4016.xml	p6	p495	1559	t4,t5	<s n="13">Gruͦß mir meine guͦthe here und vatter d. <persName ref="p8111" sent="to">Peter Martir</persName> und gebe ihm diese ingeschlossen breve; ich glaub, er wirt etwas gutz darin haben.</s>
+4016.xml	p6	p495	1559	t4,t5	<s n="14">Gruß mir h. <persName ref="p8011" sent="to">Gwalterus</persName> mein guͦte herr und frundt mit sampt seine liebe huspfrau, und ich wynch ewer sonne und seine tochter vil gluckh und heyl von lieb und seel, und wo ich kan euch oder ihnen dienst bewiesen, das wil ich von hartzen gern thue.</s>
+403.xml	p8018	p495	1549	t3,t6	<s n="48"><persName ref="p8389" sent="from">Hagius</persName> und <persName ref="p7879" sent="from">fenner</persName> <persName sent="from">Witenbach</persName> laßend üch fast gruͤßen, deßglich min volk alles üch, auch üwer husfraw und kind.</s>
+404.xml	p8055	p495	1549	t10,t11	<s n="33">Es gruͤtzt euch alle menschen.</s>
+4080.xml	p6	p495	1559	t5	<s n="7">Ich hab euch geschyck by <persName ref="p1227" sent="from">Froschouer</persName> 2 hallandysch keiß; ich bytt euch, nem sie fur gut und grüß mir alle gutte frundt.</s>
+414.xml	p4055	p495	1549	t2	<s n="4">Ich hab üwere grüß ußgricht, unnd lassen dieselbigen üch hinwiderum früntlich grüssenn unnd danncken.</s>
+4228.xml	p8354	p495	1560	t11	<s n="15">Griesst mir all lieb herrn unnd brueder zum hochsten unnd von hertzen.</s>
+4234.xml	p8432	p495	1560	t3,t10	<s n="17">Er aber, min son, glichwoll ouch min hußfrow und die minen all londt euch und euwer daß gantz hußgsindt vast grüssen.</s>
+4234.xml	p8432	p495	1560	t3,t10	<s n="19">Wellt mir all guͦtt herren und fründt grüssen, sonderlich aber euweri ersame hußfrow, sön und töchteren sampt döchtermennern, und wer unß woll will.</s>
+4234.xml	p8432	p495	1560	t3,t10	<s n="20">So bitten ich euch ouch, welt min beid brüderen <persName sent="to">Hectorn</persName> und <persName ref="p7129" sent="to">Josue</persName> irem schuͦlmeistern in trüwen bevelhen und dem schuͦlmeister ouch, so eß sich begibt, min fruntlichen gruͦß und dienst anzeigen.</s>
+4256.xml	p8055	p495	1560	t2	<s n="5">Grutzt euwer christlich husgmeind mitt allen guͦten frunden.</s>
+4287.xml	p495	p8018	1560	t6,t10	<s n="4">Gleichs wirt auch den vögten auf dem land anzeigt mit erst, ob villeicht, davor gott seye, was sich wider ein eidgnoschaft erhuͦbe/erhuͤbe, daß man ouch in yl grüst were.</s>
+429.xml	p8018	p495	1549	t3,t5	<s n="56">Uff diß mal weiß ich nitt wyters, dann üch, üwer husfrawen und kind gott trülich zuͦ befelhen; die wellind von mir und miner husfrawen trülich gruͤßen mittsampt <persName ref="p8417" sent="to">Musculo</persName> und sinem hus, dem ich diser zyt nitt wellen schriben, sonder üch laßen sin evangelisten sin, bis das es alles verhandlet wirt.</s>
+4312.xml	p66	p495	1560	t1,t2	<s n="11">Thuͦn hiemit euch dem allmechtigen bevelhenn, unnd grussen mir mein liebe schwöster und euwer volckh.</s>
+4312.xml	p66	p495	1560	t1,t2	<s n="12">Mein husfrauw und kinder lassen euch alle fruntlich grutzenn.</s>
+4395.xml	p495	p8016	1560	t10	<s n="13">Sagend minem günstigen herren landtvogt minen willigen dienst und früntlichen gruͦß, und das ich brieff empfangen habe verganges frytags uß Engelland, deren datum zu Lunden des 22. iulij, darinn begriffen, das es in allen dry königrychen, England, Irrland und Schottland, fast wol stande der eligion halben und das die träffenlich zuͦnäme, das ouch der schwerr krieg zwüschen Franckrych und denen 3 königrychen vertragen und gericht sye.</s>
+444.xml	p8055	p495	1549	t10,t11	<s n="23">Die fromm frauw <persName ref="p6555" sent="from">Sabina Schönerin</persName> bitt mich in irem schreiben, ich welle euch von iren wegen gantz fruntlich und christelich gruͤtzen, mitt erpietung irer truw und lieb.</s>
+4502.xml	p8018	p495	1560	t10	<s n="6">Die hand iren ußzug auch bi handen, und ist alles grüst.</s>
+4579.xml	p8018	p495	1560	t2,t10	<s n="18">Der dancket und grüßt üch; er ist willens gsin, üch selb zuͦ schriben; aber ich acht, er sige durch vile der gschäfften verhinderet, dann er über andere hütt verritten gen Basel.</s>
+4579.xml	p8018	p495	1560	t2,t10	<s n="21">Es grüßend üch min herren gmeinlich all, besonders <persName ref="p8012" sent="to">Haller</persName>, <persName ref="p8389" sent="to">Hag</persName>, <persName sent="to">Vischer</persName>.</s>
+463.xml	p8055	p495	1549	t2,t10	<s n="8">Min lieber bruͦder und schwester, ouch husfrow, empieten euch alles liebs, vyl gruͤtz und guͦts.</s>
+463.xml	p8055	p495	1549	t2,t10	<s n="10">Gruͤtzt all guͦt herren und fründ.</s>
+4641.xml	p495	p8009	1561	t11	<s n="34">Kumpt j. <persName>Friderych</persName> gen Chur, grüssend mir inn, entschuldigend mich das ich nit schrib.</s>
+4778.xml	p495	p8055	1561	t6,t10	<s n="41">Grüssend mir herrn <persName>Mathiam</persName>, beide mine herren schultheyssen und guͦt herren und fründ.</s>
+484.xml	p8018	p495	1549	t2,t5	<s n="23">Der herr sye üwer schirm und huͦt; dem sind mittsampt üwerem lieben husvölkli trülich befolhen; die gruͤtzend alle trülich von miner husfrawen, min und miner kinden wegen.</s>
+4931.xml	p1568	p495	1561	t6,t10	<s n="3">Dan kurtzlich hat mir mein lieber her <persName ref="p7804" sent="from">Joerg von Stetten</persName> vil grus und guts von euch anzaigt, auch mir von eurtwegen verert eur teusch biechlin contra ubiquitatem, das ich mich hochsten bedanck.</s>
+4931.xml	p1568	p495	1561	t6,t10	<s n="13">Lieber her, ich hab kurttzlich vernomen, wie her <persName ref="p2336" sent="to">Bernhardinus Ochinus</persName> bei euch zu Zurich haus; ich bit, ir wolt mir in fraintlich griesen.</s>
+4988.xml	p8018	p495	1561	t6	<s n="23">Grüßend mir min herren gmeinlich sampt den üweren allen.</s>
+506.xml	p8055	p495	1549	t5,t11	<s n="34">Myn lieber schwager <persName ref="p8500" sent="from">Peter Schär</persName> ist ettlich tag hie gewesen; der empeut euch sein gantz guͦtwillig, christelich dienst mitt vyl vyl gruͦtz und allem guͦtem, begert ewers getruwen fuͤrpitts.</s>
+506.xml	p8055	p495	1549	t5,t11	<s n="71">Min hertzliebe schwöster, bruͦder, husfrouw empietend euch vyl vyl dienst, guͦtz und gruͦtz, ouch ewer christlichen husfrowen und allem gesind.</s>
+5095.xml	p495	p8055	1561	t5,t10	<s n="21">Grüssend mir min schwager herr schuldheiß.</s>
+519.xml	p8018	p495	1549	t9,t11	<s n="14">Gott sye mitt üch und den üweren allen; die gruͤßend von mir und allem minem volk.</s>
+519.xml	p8018	p495	1549	t9,t11	<s n="15">Üch gruͤßt wider her fenner <persName ref="p8389" sent="from">im Hag</persName>.</s>
+5251.xml	p5454	p495	1562	t2,t4,t6	<s n="16">Unnd bitt euch, wellend von minen wegen dieselben eweren mittarbeitern unnd sunst annderen gelerten unnd bekannten herren unnd fründ minen früntlichen grus unnd dienst anzaigen, die ich hiemitt der gnad gottes befelhen.</s>
+5275.xml	p8055	p495	1562	t5,t11	<s n="7">Ich hab ime euwer letst büchle wider den <persName ref="p458">Brentzen</persName> geschickt; schribt er mir, er habs sinem schwager, dem <persName ref="p8367" sent="to">von Graufeneck</persName>, ouch ze lesen geschickt; schribt mir, sölle euch von sinen wegen vyl dienst, ouch alles liebs, guͦtz und gruͦtz zuͦschriben.</s>
+5299.xml	p2474	p495	1562	t5,t9	<s n="11">Grußet mir euwere liebe hausfrawe, alle euwere kindt, sun, dachteren und dachtermannen und alle andere gutte herren und freundt und all Zurych.</s>
+5300.xml	p8018	p495	1562	t10,t11	<s n="24">Es grüßend üch all guͦt herren und fründ.</s>
+5333.xml	p8018	p495	1562	t2	<s n="6">Selichs hab ich üch uff üwer ernstlich ansuͦchen wellen berichten, damitt irs dem herren panerherren anzeigen mögind; den wellind mir hiemitt früntlich grüßen.</s>
+5333.xml	p8018	p495	1562	t2	<s n="10">Es grüßend üch all guͦt herren und fründ.</s>
+5333.xml	p8018	p495	1562	t2	<s n="11">Min her schultheß <persName ref="p8063">Steiger</persName>, seckelmeister <persName ref="p8012">Haller</persName> und <persName ref="p7511">Grafenriett</persName>, venner <persName ref="p8389">imm Hag</persName>, her <persName>Pfister</persName> und andere.</s>
+5333.xml	p8018	p495	1562	t2	<s n="12">Gruͤßend mir auch min herren gmeinlich.</s>
+5348.xml	p8009	p495	1562	t10	<s n="24">Der, so hye durch geritten von Trient, ist von dem <persName sent="from">Melchior Lussi</persName> geschickt, hat glych in der herberg dem obersten, id est <persName ref="p8093" sent="to">Herculi a Salicibus</persName>, nachgefraget, der sich nitt im nach notturfft ersprachet; dan der <persName sent="from">Melchior Lussi</persName> im ein gruͦtz zuͦbotten.</s>
+538.xml	p8018	p495	1549	t2,t5	<s n="19">Er laßt üch fast gruͤßen.</s>
+538.xml	p8018	p495	1549	t2,t5	<s n="23">Es gruͤßt üch alle min husgsind und <persName ref="p8417" sent="from">Musculus</persName>, dem es über die maß übel gfalt.</s>
+5444.xml	p495	p8009	1562	t10	<s n="9">Grüssend mir unsere fründ.</s>
+557.xml	p8055	p495	1549	t10,t11	<s n="6">Schribt mir min schwager von Esslingen, ouch min lieber schwager <persName ref="p8500" sent="from">Peter Schär</persName>; der hat mir warlich uff necht under anderm geschriben, euch sinen gantz fruntlichen gruͦtz und guͦtwillig dienst ze empieten mitt hertzlichem beger, ir wellind gott getrulich fuͤr in bitten etc.</s>
+5603.xml	p8055	p495	1563	t5,t10	<s n="9">Lebe wohl; bete für mich mit den Deinen und grüße sie.</s>
+567.xml	p8018	p495	1549	t3	<s n="40">Gott mitt üch und den üweren allen; die gruͤßend von miner hußfrawen und minentwegen zum früntlichesten.</s>
+5728.xml	p495	p252	1563	t10	<s n="12">Grußsend mir guͦt herren und fründ.</s>
+6018.xml	p8071	p495	1564	t10	<s n="9">Mit grus husmuter und alle.</s>
+6032.xml	p8018	p495	1564	t10	<s n="19">Dises hatt er mir befolhen üch zuͦschryben; sonst wüße er diser zyt nüt besonders; laßt üch hiemitt auch fast gruͤßen.</s>
+6037.xml	p8055	p495	1564	t5	<s n="25">Gruͤtzt die euwern all von unser aller wegen und bittend fuͤr uns.</s>
+6069.xml	p495	p8009	1564	t10,t11	<s n="21">Gruͤssend mir sy trüwlich, und gott mitt üch und den üwern allen.</s>
+6156.xml	p495	p8009	1564	t2,t10	<s n="15">Saluta legatum regium, consules, fratres et <persName sent="to">Saliceos</persName>, <persName ref="p8093" sent="to">Herculem</persName> imprimis et <persName ref="p8432" sent="to">Friderychum</persName>; vermanend sy, das sy sich vor den Hispaniern huͦtind, die uns nie guͦts gethan und zuͦ besorgen noch nitt thuͦn werdent.</s>
+6162.xml	p1789	p495	1564	t2,t10	<s n="7">Üch sampt mir last grüisen min son.</s>
+6162.xml	p1789	p495	1564	t2,t10	<s n="8">Wellend unß och die herren und bruͦder fruntlichen grüisen.</s>
+6162.xml	p1789	p495	1564	t2,t10	<s n="9">Üweren gruͦß wellend wir by den herren bruͦderen trülich ußrichtenn.</s>
+6195.xml	p8018	p495	1564	t10	<s n="40">Gruͤßend mir min herren beed burgermeister, auch üwer hußfraw und volk alles sampt allen lieben herren und bruͤderen.</s>
+6195.xml	p8018	p495	1564	t10	<s n="41">Üch gruͤßend vast her schultheß <persName ref="p8063" sent="from">Steiger</persName>, junker <persName ref="p3494" sent="from">Niclaus von Dießbach</persName>, her seckelmeister <persName ref="p7511" sent="from">von Grafenriett</persName>, her von <persName ref="p3659" sent="from">Mülinen</persName>; der ist vorgester heimkon, dann er und her <persName>Manuel</persName> habend, nach dem si von Baden kon, die gmeinden imm Ergöw vor inen uffher gehalten.</s>
+6195.xml	p8018	p495	1564	t10	<s n="43">Min schwäher auch und üwere schwäger, die <persName>Zähender</persName>, laßend üch vast gruͤßen.</s>
+6195.xml	p8018	p495	1564	t10	<s n="45">Fraw <persName>Frischingin</persName> sampt iren sünen und töchteren läpt wol und lat üch auch vast gruͤßen.</s>
+6260.xml	p527	p495	1564	t1,t8	<s n="13">Gruͤtz myr das volck.</s>
+627.xml	p8055	p495	1549	t7,t10	<s n="26">Gruͤtzt ewer huss und all bruͤder und frund.</s>
+627.xml	p8055	p495	1549	t7,t10	<s n="30">Gruͤtzt mir inn mitt erpietung aller truw und lieb</s>
+6320.xml	p8009	p495	1564	t10	<s n="10">Doch so begärt er yetz khein pundtstag; diß thüye er allein, die gemeinden ze grützen und des geneigten willens synes künigs ze berichten; mittler zyt wölle er wyter handlen etc.</s>
+6347.xml	p495	p477	1565	t2	<s n="7">Sömlichs hab ich dich wüssen lassen, das du min günstigen saltzherren deß berichtist und mir inn trüwlich gruͤssist und dankist siner guͦten geselschafft.</s>
+6348.xml	p495	p477	1565	t2	<s n="10">All unser volck gruͤst dich etc.</s>
+6416.xml	p495	p252	1565	t10	<s n="20">Gruͤssend mir guͦt herren und fründ.</s>
+645.xml	p8018	p495	1549	t3	<s n="57">Min husfraw, deßglich <persName ref="p8417" sent="from">Musculus</persName> und sine laßend üch und die üwer mittsampt allem üwerem husgsind fast gruͤsen.</s>
+645.xml	p8018	p495	1549	t3	<s n="58">Gruͤßend uns alle bruͤder.</s>
+6451.xml	p495	p8009	1565	t2,t10	<s n="30">Bitten, ir wöllind das <persName>Arnolden</persName> anzeigen und inn früntlich gruͤssen.</s>
+6659.xml	p495	p8018	1566	t4,t5	<s n="19">Gruͤssent sy uns trüwlich; doch schript <persName ref="p8033" sent="from">Beze</persName> auch in unserem namen <persName ref="p8011" sent="from">Gvaltherus</persName>.</s>
+6659.xml	p495	p8018	1566	t4,t5	<s n="23">Gruͤtzend unß allen trüwlich all uwere und unsere bruͤder und mittdiener by üch und beratschlagent diß alles mitt inen.</s>
+6685.xml	p495	p8018	1566	t4,t6	<s n="25">Gruͤzend mir trülich herrn <persName ref="p8063" sent="to">Steigern</persName>, herrn stattschryber, die herren seckelmeister, juncker <persName sent="to">Niclausen</persName>, mine <persName ref="p4060" sent="to">Zähender</persName>, alle lieben herren und guͦten bruͤder und üwer huß.</s>
+6685.xml	p495	p8018	1566	t4,t6	<s n="26">Über das alles bitten ich üch um gotts willen und umb unser liebe und fründschafft willen, wellend one verzug und uffs volkomnist und eigentlichest das alles zuͦschryben unserem herren und bruͦder <persName ref="p8033" sent="to">Beza</persName> und in trüwlich gruͤßen.</s>
+6694.xml	p495	p477	1566	t1	<s n="10">All unser volck grußt dich.</s>
+6727.xml	p495	p477	1566	t1,t9	<s n="11">Gruuͤß mir <persName ref="p20082" sent="to">Susannam</persName>, <persName ref="p5612" sent="to">Elsbethili</persName>, <persName sent="to">Regili</persName> ouch von uns allen.</s>
+6752.xml	p8178	p495	1566	t1,t2	<s n="15">Meine hausfrau und kinder grußen wieder und wünschen euch alles gute von gott, wie ihr auch euerem schwager und den andern angehörigen von mir und den meinen ausrichten möget.</s>
+6837.xml	p495	p8060	1566	t5	<s n="17">Min gnädiger her burgermeister hat mir befolhen, üweren churfürstlichen gnaden sinen gruͦß und willige dienst anzuͦzeigen und zuͦ dancken umb alle die gnad und guͦts, so von üweren churfürstlichen gnaden imm zuͦ Augspurg bewisen.</s>
+6920.xml	p8018	p495	1566	t5,t10	<s n="28">Dancket üch hiemitt beeden üwers gruͦßes und gruuͤßt üch hinwider.</s>
+6920.xml	p8018	p495	1566	t5,t10	<s n="30">Gruuͤßend mir min herren gmeinlich.</s>
+6945.xml	p495	p477	1566	t1,t9	<s n="13">Gruuͤß uns <persName ref="p20082" sent="to">Susannan</persName> und <persName ref="p5612" sent="to">Elßbethili</persName>, die dienst, Bryda, schwäger und din schweger vogt zuͦ Rinow.</s>
+6945.xml	p495	p477	1566	t1,t9	<s n="14">Es grußt üch all unser volck.</s>
+6951.xml		p495	1566	t3,t5	<s n="19">Ir wellennd unnßeren fründtlichen gruͦtz sagen allen üwern mittarbaittern im herrn, unßeren fürgeliebten herren unnd bruͦdern.</s>
+6975.xml	p495	p477	1567	t1	<s n="16">Gruͤß mir <persName sent="to">Lysenbethli</persName>, min liebe <persName ref="p20082" sent="to">Susanna</persName> etc. totam domum.</s>
+7006.xml	p8018	p495	1567	t9,t10	<s n="40">Er laßt üch vast gruͤßen, deßglichen ander min herren gmeinlich, auch junker <persName ref="p4060" sent="from">Ludwig Zehender</persName>, min schweher, muͦter, hußfraw, <persName ref="p8417" sent="from">Musculus</persName> et alii.</s>
+7014.xml	p8018	p495	1567	t10	<s n="18">Den abdruck des keiserlichen mandats und der absagbriefen wil ich üch nehermalen wider schicken; ich hab es noch nieman zeigen können dann dem herren <persName ref="p3494" sent="from">von Dießbach</persName>; der ist jetz statthalter absente <persName ref="p8063">Steigero</persName> et reliquis und laßt üch vast gruͤßen.</s>
+702.xml	p8505	p495	1549	t4,t6	<s n="11">Gruest mir all guethertzig freunt, sunderlich des <persName>Zwingli</persName> tochterman, alls ainen unbekhanten.</s>
+7125.xml	p2923	p495	1567	t10,t11	<s n="6">Sider hab ich einen brief an ine gehorrig empfangen, haben ir die guteter zu gestelt, mit bit ime solchen lassen uberantworten, ime auch mein freuntlicher grues antzaigen.</s>
+7147.xml	p252	p495	1567	t10	<s n="32">Ich bitten üch, ir wellend mir all min herren gruͦtzen sampt üwerm sun zuͦ Berg und sin husfrowen.</s>
+7163.xml	p495	p477	1567	t1	<s n="6">Gruͤß mir <persName ref="p20082" sent="to">Susanna</persName>, <persName ref="p5612" sent="to">Elsbethli</persName> etc.</s>
+7163.xml	p495	p477	1567	t1	<s n="7">All min volck gruͤst dich.</s>
+7192.xml	p2923	p495	1567	t5,t11	<s n="26">Wollet mir ine gantz freuntlich grussen.</s>
+7192.xml	p2923	p495	1567	t5,t11	<s n="28">Eur vetter <persName ref="p1516" sent="from">Hainrich Hedinger</persName> ist wol auf unnd lest euch vleissige gruessen, desgleichen wollet auch von mir gegrusst, unnd mich eurm gebeth lassen befollen sein.</s>
+7251.xml	p8016	p495	1567	t10,t11	<s n="16">Als ich dises hievor geendet und dise nüw zytung dem herren houptman <persName ref="p1770" sent="to">Carli</persName> mitteilt, inn ouch in üwerem namen früntlich grust, da kompt er morndess zwo stund vor tag zuͦ mir ins hus, mir herwiderum ettwas, üch zuͦzschriben, anzezeigen.</s>
+7275.xml	p495	p8016	1567	t5,t10	<s n="21">Gruͤssend mir flyssig die 3 herren burgermeister, den herren <persName ref="p20473" sent="to">Ganthnerum</persName>, herren <persName ref="p6130" sent="to">Pontisellam</persName> und andere herren und fründ.</s>
+7277.xml	p495	p8016	1567	t10,t11	<s n="19">Gruͤssend <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName> etc.</s>
+7284.xml	p495	p252	1567	t10	<s n="15">Gruͤssend mir guͦt herren und fründ.</s>
+7284.xml	p495	p252	1567	t10	<s n="16">Lieber, könend ir, so schribend dises och an houptman <persName ref="p1770" sent="to">Carli</persName> gen Chur und gruͤssend mir inn.</s>
+7291.xml	p495	p477	1567	t2,t3	<s n="12">Das schrib ich dir zum bericht, das du unsern früntlichen herren schwager wüssist zuͦ berichten; den gruͤß mir ouch trüwlich.</s>
+7294.xml	p495	p8016	1567	t10	<s n="7">Den herren houptman <persName ref="p1770" sent="to">Carli</persName> söllend ir mir früntlich gruͤssen und imm warlich anzeigen, das man (mitt gunst zuͦ mälden) groß lüg fürgipt; dann Zürych und Bernn habend by eer, lib und guͦt verbotten, in disen zug zuͦ ziehen.</s>
+7294.xml	p495	p8016	1567	t10	<s n="15">Das zeigend minem herren houptman <persName ref="p1770" sent="to">Carlin</persName>, ouch minen herren burgermeistern und sy trüwlich gruͤssin.</s>
+7301.xml	p495	p8016	1567	t10,t11	<s n="21">Gruͤssend mir mine herren burgermeister, <persName ref="p1770" sent="to">hoptman Carlin</persName> und <persName ref="p6130" sent="to">Pontasellam</persName>, herren <persName ref="p20473" sent="to">Ganthnern</persName> und andere unser liebe und guͦte fründ.</s>
+7311.xml	p495	p8016	1567	t9,t10	<s n="16">Gruͤssend mir symystas, herren burgermeistern und herren houptman <persName ref="p1770" sent="to">Carli</persName>, <persName ref="p6130" sent="to">Pontisellam</persName> etc.</s>
+7329.xml	p8016	p495	1567	t10,t11	<s n="6">Wiewol der conetabel, der herzog von <persName ref="p20293">Animour</persName>, mareschall von <persName>Ganar</persName> und der jung herr von <persName ref="p8621">Guisach</persName> darby gsin und ander herren, sind sy doch nitt grüst gsin alß gar kein kriegsvolk gehebt dann uns.</s>
+7329.xml	p8016	p495	1567	t10,t11	<s n="20">Es sind darunder by 1500 Flemling und burgundische pferd und ettlich spanngische schützen zuͦ ross; ir oberster ist der graaff von Harrenberg, ein fyner herr, erzeigt sich früntlich, so es zuͦ einer schlacht köme; welle er dapffer zuͦ uns setzen; sind woll grüst mitt guͦten pferden.</s>
+7353.xml	p495	p477	1568	t1,t9	<s n="8">Sy last dich und <persName ref="p5612" sent="to">Lisenbethli</persName> wie och ich und alles volck dich fast gruͤssen.</s>
+736.xml	p8018	p495	1549	t2,t3	<s n="9">Gruͤßend mir üwer gantz hus; üch gruͤßt auch alle min husfraw.</s>
+7370.xml	p495	p8016	1568	t10,t11	<s n="22">Gruͤssend mir h. burgermeister, houptman <persName ref="p20212" sent="to">Carlin</persName>, <persName ref="p6130" sent="to">Pontasellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName> und alle unser fründ.</s>
+7389.xml	p2923	p495	1568	t2,t10	<s n="7">Bin eben in der stundt bei ime gewessen, lest euch sein willigen dienst und freuntlichen grues empieten; darneben mich gebethen, weil ich mit euch verwandt, dass ir ime mit dem ersten diese buecher het geschickt, nach inhalt dieses inligenden zetelin.</s>
+7396.xml	p495	p8016	1568	t10	<s n="16">Gruͤssend mir die herren 3 burgermeister, houptman <persName ref="p1770" sent="to">Carli</persName>, <persName ref="p6130" sent="to">Pontasella</persName>, <persName ref="p20473" sent="to">Ganthner</persName> etc. und alle guͦte fründ.</s>
+7431.xml	p495	p8016	1568	t10,t11	<s n="13">Gruͤssend mir min herren burgermeister, <persName ref="p6130" sent="to">Pontisella</persName>, <persName ref="p20473" sent="to">Ganthner</persName> und andere fründ.</s>
+7451.xml	p495	p8016	1568	t10,t11	<s n="17">Gruͤssend mir die herren burgermeister, <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName> und all unser guͦt herren und fründ.</s>
+7505.xml	p495	p477	1568	t8,t10	<s n="7">Gruͤß mir <persName ref="p20082" sent="to">Susannam</persName>, <persName ref="p5612" sent="to">Elsbethili</persName>, din volck, gevatter, <persName sent="to">Agatham</persName>, juncker <persName sent="to">Hansen</persName> von Ulm, deß kranckheit mir gar leyd ist, und junckher <persName sent="to">Hansen Petter</persName> und ander unsere schwäger.</s>
+752.xml	p3067	p495	1549	t10	<s n="5">Als ich sy grüesßet, zugend sy die rosß in eyn stall, der diener blyb dorby, wolt nit hinuff in die stuben, wie kalt es was.</s>
+752.xml	p3067	p495	1549	t10	<s n="14">Als ich mit im zum huß ußgieng, zoch er zum dritten mal die französisch vereynung an mit grosßem verwunderen, das sich ouch die evangelischen stett darin gelassen hetten, so doch der Franzoß ein so grußam edict wider das h. evangelion und unßer religion hette lassen ußgon, darin er uns mit namen anzuge und verdame.</s>
+752.xml	p3067	p495	1549	t10	<s n="25">Myn wyb laßt uch und uwere liebe hußfrowen sampt den kinden früntlich grüessen.</s>
+7532.xml	p2923	p495	1568	t4,t10	<s n="10">Den brief an herrn <persName ref="p8130" sent="to">Laurentium</persName> hab ich geantwort, der lest euch gantz freuntlich gruessen, er wurdt euch mit dem ersten wieder antwort schreiben.</s>
+7532.xml	p2923	p495	1568	t4,t10	<s n="26">Unnd thue mich hiemit gantz und gar in eur lieb befellen, mit bit wollet mir eure liebe toechtern sambt dem gantzen haussgesindt gantz vleisig gruessen, und thue euch in schutz und schirm dess hochsten befellen.</s>
+754.xml	p8018	p495	1549	t2,t3	<s n="11">Darzuͦ söll ich üch fast gruͤßen, und er well deß handels, davon ir imm gschriben, ingedenck sin; was aber das sye, hatt er mir nitt geoffnet.</s>
+7544.xml	p495	p8016	1568	t2,t10	<s n="20">Gruͤssend mir die 3 herren burgermeister, h. <persName ref="p1770" sent="to">Carolum</persName>, <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName>, omnes.</s>
+755.xml	p182	p495	1549	t10,t11	<s n="15">Gruest mir jederman und last mich den euwern sein.</s>
+7574.xml	p495	p477	1568	t1,t2	<s n="9">Wir gruͤssend dich alle, dich, <persName ref="p20082" sent="to">Susanen</persName>, <persName ref="p5612" sent="to">Elßily</persName> etc.</s>
+7592.xml	p2923	p495	1568	t4,t10	<s n="7">Gehoert ain exemplar dem h. <persName>Mauritio Helling</persName>, der lest e. e., desgleichen h. <persName ref="p850">Durnhofer</persName> und herr doctor <persName sent="from">Christopf Hartusionsis</persName>, gantz freuntlich gruessen.</s>
+7592.xml	p2923	p495	1568	t4,t10	<s n="28">Sonst nichts auf diss mal, allain mich eurer lieb und gunst bevelhende, auch mir eure tugentsame tochtere sambt dem gantzen hausgesindt und allen guten herrn und freunden gantz unterthenig freuntlich gruessen, und thue euch hiemit in schutz und schirm dess hochsten bevelhen.</s>
+7603.xml	p495	p477	1568	t1,t10	<s n="8">Gruͤß uns <persName ref="p20082" sent="to">Susanen</persName>, gott gäbe iren gsundtheyt, und <persName ref="p5612" sent="to">Lisenbethli</persName>.</s>
+7624.xml	p495	p8016	1568	t10	<s n="36">Gruͤssend mir die herren burgermeister, ouch andere unsere guͦte fründ.</s>
+7661.xml	p495	p8016	1568	t10,t11	<s n="16">Gruͤssend mir die 3 herren burgermeister und guͦt herren und fründ, h. <persName ref="p20473" sent="to">Gantner</persName>, h. <persName ref="p6130" sent="to">Pontisella</persName> etc.</s>
+7695.xml	p495	p252	1568	t10	<s n="15">Gruͤssend mir guͦt herren und fründ.</s>
+7704.xml	p495	p477	1568	t1,t10	<s n="21">Gott mitt dir; gruͤß mir <persName ref="p20082" sent="to">Susanna</persName> und <persName ref="p5612" sent="to">Elsili</persName>, din huß.</s>
+7704.xml	p495	p477	1568	t1,t10	<s n="22">All unser volck gruͤßt dich.</s>
+7762.xml	p495	p252	1569	t10	<s n="6">Und alls ich inn fraget, ob ichs üch schicken gedörfte, antwort er: "Ja, gar wol; dann ich willens xin, den <persName ref="p252" sent="to">Beldinen</persName> (üwern lieben sünen) zuͦ schicken; so schicks du grad dem vatter und gruͤß mir sy früntlich mitt erbietung miner gar willigen diensten."</s>
+7762.xml	p495	p252	1569	t10	<s n="12">Gruͤssend mir die üweren und all guͦt herren und fründ.</s>
+7763.xml	p495	p8016	1569	t10,t11	<s n="16">Grüßsend mir h. houptman <persName ref="p1770" sent="to">Carlin</persName>, die herren burgermeister, <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName> und all guͦt herren und fründ.</s>
+7766.xml	p495	p477	1569	t1,t9	<s n="10">Gruͤß mir inn trüwlich und kumm, sobald du kanst, amm sontag nach der predig.</s>
+7851.xml	p495	p8016	1569	t10	<s n="11">Gruͤssend mir mir herren burgermeister, herren <persName ref="p1770" sent="to">Carolum</persName>, <persName ref="p6130" sent="to">Pontisell</persName>, <persName ref="p20473" sent="to">Ganthnern</persName> und alle unsere fründ.</s>
+7851.xml	p495	p8016	1569	t10	<s n="12">Ich bitten, habend ir glägenheit, ir wöllind desse ettwas och in minem namen zuͦschriben junkher <persName ref="p8432" sent="to">Fridrychen von Salis</persName> und inn in minem namen früntlich gruͤssen sampt sinem sun junkher <persName ref="p8433" sent="to">Hansen</persName>.</s>
+7861.xml	p495	p8016	1569	t10,t11	<s n="21">Gruͤssend mir mir herren burgermeister, herren <persName ref="p1770" sent="to">Carolum</persName>, <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName> und all unser fründt.</s>
+791.xml	p8018	p495	1550	t2,t3	<s n="31">Üch gruͤßt min <persName ref="p5131" sent="from">husfraw</persName> mittsampt der <persName ref="p8051" sent="to">üweren</persName>, deßglich <persName ref="p8417" sent="from">Musculus</persName> und sin <persName ref="p20374" sent="from">husfraw</persName>; wünscht üch allen ein guͦt glückhafftig jar.</s>
+7963.xml	p495	p477	1569	t1	<s n="8">Gruͤß mir die <persName ref="p20082" sent="to">Susanna</persName>, <persName ref="p5612" sent="to">Lisenbeth</persName> und din huß etc.</s>
+7963.xml	p495	p477	1569	t1	<s n="9">All unser volck gruͤst dich.</s>
+8013.xml	p1918	p495	1569	t9,t10	<s n="7">Unssere lieben herren statschriber lassen euch freundtlich grietzen mit pit, mir die ander herren dienstlich grietzen.</s>
+804.xml	p66	p495	1550	t2,t9	<s n="19">Jr wellend mir unnd meiner husfrauwen mein liebe schwöster <persName ref="p8051" sent="to">Anna</persName> und euwere kinder, und wer euch liebt, fründtlichenn gruͤtzen.</s>
+8062.xml	p2923	p495	1569	t10	<s n="22">Sonst nichts auf diesmal, dan ich und mein hausfrau lassen euch und eurn toechter sambt eurm gantzen hausgesindt auch alle herrn und gute freundt gantz vleissig gruesen und thon euch in schutz und schirm dess hochsten bevelhn.</s>
+810.xml	p8417	p495	1550	t2,t5	<s n="15">Salutem toti domui tuę oben und unden, jungen und alten, allen mitteinander, auch der muͦter <persName>Klunglerin</persName>.</s>
+8106.xml	p495	p477	1569	t1,t2	<s n="13">Es gruͤst dich all unser volck, ouch <persName ref="p20082" sent="from">Susannam</persName> und <persName ref="p5612" sent="from">Lisenbethli</persName>.</s>
+8117.xml	p495	p477	1569	t10	<s n="6">Gruͤß mir all din volck, und minem junckherren zuͦ Tüffen, siner eeren hußfrowen und allem volck wünsch mir von gott vil tusend guͦter jaren.</s>
+8132.xml	p495	p477	1570	t9,t10	<s n="12">Hiemitt biß gott bevolhen und gruͤß mir <persName ref="p20082" sent="to">Susannam</persName> und <persName ref="p5612" sent="to">Lisenbethli</persName>.</s>
+8132.xml	p495	p477	1570	t9,t10	<s n="14">Es gruͤst dich all unser volck.</s>
+8132.xml	p495	p477	1570	t9,t10	<s n="16">Gruͤß mir ouch junckher <persName ref="p20173" sent="to">Hansen von Ulm</persName> zuͦ Tüffen und all sin volck.</s>
+8136.xml	p495	p477	1570	t1	<s n="7">Gruͤß uns allen <persName ref="p20082" sent="to">Susanna</persName>, <persName ref="p5612" sent="to">Lisenbethli</persName>.</s>
+8187.xml	p495	p477	1570	t1	<s n="10">Gruͤß mir sy, <persName>Lysinli</persName> und din huß.</s>
+8187.xml	p495	p477	1570	t1	<s n="12">Es gruͤst dich all min volck.</s>
+8187.xml	p495	p477	1570	t1	<s n="16">Gruͤß mir junckher <persName>Hansen</persName> und sin huß.</s>
+8198.xml	p495	p477	1570	t1,t9	<s n="13">Alles volck gruͤst üch.</s>
+8221.xml	p8136	p495	1570	t2,t9	<s n="8">Der allmechttig gott wölle euch und all eüwer volck in grosser gesunttheitt erhaltten, und gruͤssend mir sey alle samen.</s>
+8221.xml	p8136	p495	1570	t2,t9	<s n="10">Mein <persName>Anelin</persName> laß eüch als sein hertzlieben vetteren und all seine lieben vetteren und bässenen, die kleinen und die grossen vast gruͤtzen.</s>
+825.xml	p8505	p495	1550	t4	<s n="10">Den hat man nachmalen in ein vas gschlagen, an die Yser gworffen, aber hat von dannen, wie man ime gethon, nit rinen wollen, hat lesstlich das vaß an ainem gries vergraben.</s>
+825.xml	p8505	p495	1550	t4	<s n="12">Gonnstiger herr <persName ref="p495" sent="to">Bullinger</persName>, mein freuntlich bitt, e. wierde wollen mier diß mein schreiben, so in eyl gschehen, nit in argem aufnemen, sonnder vertrauter mainung versthen, darzue euer getreu im evangelio mitarbaitter feuntlich im herrn gruessen, in dessen gnad ich e. e. sambt mir bevilch, ainer anntwort gwarttund.</s>
+8261.xml	p495	p8016	1570	t4,t10	<s n="5"><persName ref="p1227" sent="from">Froschowern</persName> hab ich vom handel anzeigt; der last üch gruͤssen und bittet trüwilch, ir wöllind uns uff künfftigen frytag berichten, wie es mitt imm ergangen.</s>
+8261.xml	p495	p8016	1570	t4,t10	<s n="18">Gruͤssend mir mine h. burgermeistere, <persName ref="p1770" sent="to">Carolum</persName>, <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p20473" sent="to">Ganthnerum</persName>, <persName ref="p8186" sent="to">Bonethum</persName> und ander guͦt herren.</s>
+8290.xml	p8018	p495	1570	t8,t10	<s n="30">Min schwäher, auch min herr <persName ref="p8063" sent="from">Steiger</persName>, auch ander guͦt herren und fründ sampt den minen allen laßend üch vast gruͤßen.</s>
+8290.xml	p8018	p495	1570	t8,t10	<s n="31">Gruͤßend mir auch die üweren.</s>
+8303.xml	p495	p477	1570	t1,t2	<s n="4">Alles volck und ich gruͤssend dich, <persName ref="p20082" sent="to">Susanna</persName>, <persName ref="p5612" sent="to">Lisenbethli</persName> etc.</s>
+8354.xml	p495	p8016	1570	t10,t11	<s n="21">Gruͤssend mir trüwlich alle üwer badergesellen etc.</s>
+8405.xml	p495	p8016	1570	t5,t11	<s n="51">Hiemitt sind gott befolhen und gruͤssend mir guͦt herren und fründ.</s>
+8405.xml	p495	p8016	1570	t5,t11	<s n="53">Insonders gruͤssend mir beide mine herren die burgemeister, den stattvogt und zunfftmeister etc.</s>
+846.xml	p8417	p495	1550	t2	<s n="15">Min <persName ref="p20957" sent="from">Sarele</persName> laßt sin gspylin <persName ref="p5035" sent="to">Verele</persName> zu tusentmal grietzen; sie wolt gern mitt ir im garten umbher louffen, wann nur die muter <persName>Klunglerin</persName> nit da were.</s>
+8468.xml	p2923	p495	1571	t7,t11	<s n="29">Damit thon wir euch in schutz unnd schirm dess aller hochsten bevelhen, mit bith ir wollet unss alle gute herrn und freundt sambt eurn gantzem hausgesindt gantz vleisig gruesen; und hiemit ain schilling darauf <persName ref="p5327" sent="to">Johannj Huss</persName> seligen bildnus, denn wollet eurm lieben sohn wie vorgmelt verehren, mein dabei im besten zu gedencken, und also fur gut nemen.</s>
+8482.xml	p495	p477	1571	t1	<s n="8">Wir gruͤssend alle <persName ref="p20082" sent="to">Susannam</persName>, <persName ref="p5612" sent="to">Lisenbethli</persName>.</s>
+8492.xml	p495	p1789	1571	t5,t9	<s n="16">Gruͤssend mir all min herren und guͦte fründ.</s>
+8495.xml	p495	p477	1571	t5	<s n="10">Ich sol dich gruͤssen von allem volck.</s>
+8495.xml	p495	p477	1571	t5	<s n="17">Gruͤß mir <persName ref="p20082" sent="to">Susannam</persName>, <persName ref="p5612" sent="to">Lisenbethli</persName>.</s>
+8557.xml	p8017	p495	1571	t4,t11	<s n="14">Gruͤßent mir alli herren und bruͤder, ouch üwers liebs hußgsind.</s>
+8614.xml	p495	p477	1571	t1	<s n="7">Gruͤß uns <persName ref="p20082" sent="to">Susannam</persName> und <persName ref="p5612" sent="to">Lisili</persName> und all din volck.</s>
+8631.xml	p495	p477	1571	t1,t2	<s n="13">Gott mitt dir; es gruͤst dich all min volck, und gruͤß uns alle, unsre liebe <persName ref="p20082" sent="to">Susanna</persName> und <persName ref="p5612" sent="to">Liseli</persName>.</s>
+8637.xml	p495	p8011	1571	t5,t10	<s n="18">All min volck gruͤst üch.</s>
+8637.xml	p495	p8011	1571	t5,t10	<s n="19">Gruͤß mir dine mittbader.</s>
+8643.xml	p495	p477	1571	t4,t10	<s n="13">Gott mitt dir, <persName ref="p20082" sent="to">Susann</persName>, <persName ref="p5612" sent="to">Lysenbethli</persName> und üch allen; all min volck gruͤst üch.</s>
+8668.xml	p495	p477	1571	t1	<s n="5">All unser volck gruͤst, und diewyl du so wol gevatter <persName sent="to">Hansens</persName> darffst, hab ich zuͦ gevatter <persName>Reglenn</persName> gesagt, sy sölle hütt <persName>Alwinnen</persName> und die volgenden tag <persName ref="p487">Heinrychen</persName>, deß wir wol zuͦfriden sind, und wirt sy alles wol ußrichten und rächt machen.</s>
+8668.xml	p495	p477	1571	t1	<s n="7">Und gott sye mitt dir, <persName ref="p20082" sent="to">Susanna</persName> und <persName ref="p5612" sent="to">Lisenbethli</persName>; die gruͤß uns allen, ouch gevatter <persName>Hansen</persName> und all din volck.</s>
+867.xml	p8455	p495	1550	t2	<s n="5">Letstlich aber, diewyl ich euch der lenge nach ze schryben nit muß hab, will ich hiemit uwerer hohen truw unnd liebe den wyßlosen, mynen frommen liebenn vatter uß hertzlichem vertruwen, deßglychen ouch mich, den armen züttel, uß gantzem wolmeinendem hertzen fürther unnd trungenlich bevolhen habenn, ongezwyfelter zuversicht, was ir uns bißhar so fruntlich und trulich gethon, ouch fürohin uß sonnderer christenlichen liebe nit weniger thon, werde ouch vor gott dem warhafften unserm himelischen vatter nit onbelonet hingelossen, inn dessen vätterlichen schirm ich üch sampt uwerer tugentrychen lieben hußfrowen unnd allem gsindt getrüwlich bevelhe; denselben wollen myne arme dienst und fruntlichen gruß ansagen.</s>
+8680.xml	p1918	p495	1571	t5,t11	<s n="9">Mit pit, mein dienstlichen gruͦtz und alles her seckelmeister <persName sent="from">Thoma</persName>, her <persName ref="p8011" sent="to">Walther</persName> und andren anzaigen.</s>
+8680.xml	p1918	p495	1571	t5,t11	<s n="10">Unsere lieben her <persName ref="p1789" sent="from">Johannes Kessler</persName>, statschriber, her <persName sent="from">Bernhart</persName>, her <persName ref="p3933" sent="from">Davit Wetter</persName>, lassen euch, die ewer christelichen gritzen.</s>
+8687.xml	p8017	p495	1571	t2,t5	<s n="30">Gruͤtzend mir euwer husgsind, all guͦtt lieb herren und mittbruͤder.</s>
+8687.xml	p8017	p495	1571	t2,t5	<s n="31">Es gruͤßt üch min hußfrow in mini kind.</s>
+8696.xml	p1918	p495	1571	t10	<s n="13">Meine lieben herren, ich mit inen, die predicanten, frow <persName>Rütlingerin</persName> lasen euch freundtlichen grietzen.</s>
+8700.xml	p495	p477	1571	t2,t10	<s n="15">Gruͤß mir <persName ref="p20082" sent="to">Susannam</persName> und <persName ref="p5612" sent="to">Lisenbethli</persName>, j. <persName ref="p6077">Hansen Peyer</persName>, h. <persName ref="p5334">Huß</persName>... etc.</s>
+8712.xml	p1918	p495	1571	t10,t11	<s n="14">Mein dienstlich pit, mir mein erenden gelipten herrn <persName ref="p8011" sent="to">Walther</persName> dienstlichen gritzen, im dancken umb sein freundtlichs zuͦschriben; sein brieff verschaff ich nach datto.</s>
+8716.xml	p1918	p495	1571	t2	<s n="16">Unsere geliebtn herrn predicanten, ich mit inen, lasen euch, herrn <persName ref="p8011" sent="to">Walther</persName> dienstlichen gritzen, mit pit, min underthenige dienst min her burgermeister <persName ref="p5413" sent="from">Camlin</persName>, her seckelmeister <persName>Thoma</persName> anzuͦzaigen etc.</s>
+8723.xml	p495	p477	1571	t9	<s n="6">Es gruͤst dich all unser volck; gruͤß mir <persName ref="p20082" sent="to">Susannam</persName> und die kind etc.</s>
+8733.xml	p495	p477	1571	t1	<s n="10">All min volck gruͤst dich; gruͤß uns all din volck.</s>
+8735.xml	p495	p477	1571	t10	<s n="6">Gruͤß mir <persName ref="p20082" sent="to">Susannan</persName> und kinder.</s>
+8758.xml	p495	p477	1572	t9,t10	<s n="8">Die beide copyen schicken ich dir, daß, wenn j. <persName ref="p6077" sent="to">Hans Peyer</persName> (den mir trüwlich gruͤssen solt und imm min willige dienst anzeigen) und du es geläsend, du es schickist dem saltzherren <persName sent="to">Beato</persName> (den du mir och trüwlich gruͤssen solt) mitt dem befälch, wenn ers geläsen, das ers one verzug m. <persName>Hans Conradten</persName> gäbe, dem ich hütt schryben, das ichs durch dich und inn imm unverzogenlich zuͦschicke; by h. Beato sölle ers suͦchen.</s>
+8764.xml	p495	p477	1572	t10	<s n="12">Gruͤß uns <persName ref="p20082" sent="to">Susannen</persName>, <persName ref="p5612" sent="to">Lysenbethli</persName>, <persName ref="p20082" sent="to">Susili</persName> und j. <persName ref="p6077" sent="to">Hansen Peyer</persName> und sin hußfrowen, h. <persName ref="p5711" sent="to">Hansen Löwen</persName> etc.</s>
+8764.xml	p495	p477	1572	t10	<s n="15">All min volck gruͤst üch.</s>
+8776.xml	p495	p477	1572	t1,t2	<s n="5">Gruͤß mir <persName ref="p20082" sent="to">Susannan</persName> und die kind; <persName ref="p5034" sent="to">Dorothe</persName> und alles volck last üch ouch gruͤßen.</s>
+8793.xml	p1918	p495	1572	t10,t11	<s n="10">Unsere erenden, geliebten herren predicanten lassend euch ir dienst und grutz anzaigen.</s>
+8793.xml	p1918	p495	1572	t10,t11	<s n="11">Will euch hiemit sampt den ewer inn schierm des almachtigen bevolhen han sampt den ewern min erenden, geliebten herren <persName ref="p8011" sent="to">Walther</persName> insunderhait min dienst und grutz anzaigen etc.</s>
+88.xml	p8098	p495	1548	t5,t10	<s n="11">Das haben wir uch, so irs zevor nit wissens haben, gnediglich nit verhaltten wöllen, welchs ir ewern häuptern von unsertwegen wol entdecken mögen und inen von unsertwegen unsern fruntlichen und gnedigen grus sagen sampt ewerm mitbruder dem <persName ref="p8011" sent="to">Gvalthero</persName>.</s>
+880.xml	p4129	p495	1550	t10,t11	<s n="20">Damit seint got dem allemechttigen beffollen und sagen dem gutten herren <persName ref="p8127" sent="to">Pillicanno</persName>, ich hab in früntlichen thun grussen in den herren, und verssehen mich, sein gelt werde in 14 tagen hie sein.</s>
+8807.xml	p1918	p495	1572	t4,t10	<s n="4">Herr <persName ref="p1789" sent="from">Johannes Kessler</persName> last euch sin gruͦtz und dienst anzaigen; ist vor datto bericht vom landtvogt, das laider den gutten leuten nit zu helffen ist.</s>
+8817.xml	p495	p477	1572	t2,t4	<s n="7">Gruͤß uns <persName ref="p20082" sent="to">Susana</persName> und kinder; das bäß <persName>Annli Wirt</persName> hat ein meitili geboren und stadt wol umb es.</s>
+8817.xml	p495	p477	1572	t2,t4	<s n="11">Alles volck gruͤst üch.</s>
+8818.xml	p495	p8016	1572	t10,t11	<s n="32">Sölichs, lieber herr und bruͦder hab in yl, und diewyl ichs von gwüssen orten und eeren fürnemmen lüthen hab, mitt üch wöllen teylen; mögend irs och zuͦ üwerm gefallen andern guͦten herren und fründen mitteylen und mir mine herren burgermeister und andere mine herren früntlich gruͤssen, och den h. <persName ref="p8057" sent="to">Campellum</persName>, <persName ref="p6130" sent="to">Pontisellam</persName>, h. <persName sent="to">Goryussen</persName>, <persName ref="p8186" sent="to">Bonetten</persName> und andere bekandte.</s>
+8818.xml	p495	p8016	1572	t10,t11	<s n="35">All die minen gruͤssend üch.</s>
+8842.xml	p8017	p495	1572	t10	<s n="4">Er gruͦßt üch ouch gantz früntlich, deßglichen min hußfrow und all min gsind.</s>
+8847.xml	p495	p477	1572	t9	<s n="16">Gruͤß mir und uns allen <persName ref="p20082" sent="to">Susanna</persName> und die kind und uns allen etc.</s>
+8847.xml	p495	p477	1572	t9	<s n="18">Gruͤß mir j. <persName ref="p6077" sent="to">Hansen Peyer</persName>; was ich imm thuͦn köndte, were ich willig; das wasser bruche er, wie ich dir geschriben, allwäg am 3. tag oder 4.</s>
+885.xml	p495	p8055	1550	t10	<s n="20">Gruͤssend alle unsere fründ.</s>
+8853.xml	p495	p477	1572	t1	<s n="8">Gott gruͤsse und beware üch alle.</s>
+8870.xml	p1918	p495	1572	t10	<s n="10">Mit pit, mir meine erend gnedig, lieb herrn sampt den ewer dienstlichen grietzen.</s>
+8917.xml	p1918	p495	1572	t2	<s n="5">Euch geliebe, im min gruͦtz und klainfuege dienst anzuͦzeigen.</s>
+8919.xml	p495	p477	1572	t5,t10,t11	<s n="19">Gruͤß uns <persName ref="p20082" sent="to">Susannan</persName> und die kind.</s>
+8919.xml	p495	p477	1572	t5,t10,t11	<s n="20">All unser volck gruͤst üch, und schick mir widerumb die küsse ettwan by Dyessen.</s>
+8925.xml	p1918	p495	1572	t2,t10	<s n="16">Lasend euch die ewer grietzen, auch unsere lieben herren predicanten, statschriber, euch, den herrn <persName ref="p8011" sent="to">Walther</persName> und andre.</s>
+8941.xml	p487	p477,p495	1572	t8	<s n="13">Gruͤßend uns <persName ref="p20082" sent="to">Susannan</persName> und kinder; alle unsere gruͤssend üch.</s>
+8958.xml	p495	p477	1572	t10	<s n="10">Die gruͤß mir trüwlich und die kind, und wenn du (mir?) <persName ref="p4456" sent="to">Frenen</persName> nitt me bruchst und iren bedarffst, ouch guͦt wätter ist, so schick mirs wider heim.</s>
+8958.xml	p495	p477	1572	t10	<s n="14">All unser volck gruͤtzt üch alle.</s>
+8969.xml	p495	p477	1572	t1,t9	<s n="16">Gott mitt üch; all min volck gruͤst üch etc.</s>
+8978.xml	p495	p477	1572	t1	<s n="10">Gruͤß uns <persName ref="p20082" sent="to">Susanam</persName> und kinder, och junckher <persName ref="p6077" sent="to">Hansen Peyer</persName> zuͦ Flach.</s>
+8982.xml	p495	p8016	1572	t10	<s n="23">Hiemitt schickt üch <persName ref="p1227" sent="from">Froschower</persName> ettlich getruckte exemplar des Roggenstocks, danckt üch früntlich und gruͤst üch fast.</s>
+8993.xml	p495	p477	1572	t1	<s n="9">Ässend die bratfisch mitt einandren und sind frölich; der reling gebraten ist gar guͦt, Gruͤß mir, ja uns allen, <persName ref="p20082" sent="to">Susannan</persName> und die kind.</s>
+8993.xml	p495	p477	1572	t1	<s n="12">Gruͤß mir j. <persName ref="p6077" sent="to">Hansen Peyer</persName> und h. <persName ref="p5711" sent="to">Hansen Löwen</persName> etc.</s>
+900.xml	p8505	p495	1550	t4,t5	<s n="8">Mein vleissig an euch, gunstiger herr, auch frundt, bitt, die wellen mier meine sonnders (nach dem angsicht, wie solche in eurn missif gmeldt unbekhant herrn) zum fruntlichisten widerumb gruessen, alls ich aigner person selbst vor ihne thuen mocht.</s>
+9002.xml	p495	p477	1572	t1	<s n="4">So schänckt üch beiden vetter <persName ref="p499" sent="from">Josue</persName> dise zwen schönen keling in das bad, wünscht üch, das ir gsundtlich und wol badint; gruͤst üch trüwlich, bittet, ir nämind für guͦt von imm.</s>
+9002.xml	p495	p477	1572	t1	<s n="10">Grüß mir trüwlich j. <persName ref="p6077" sent="to">Hansen</persName>.</s>
+9002.xml	p495	p477	1572	t1	<s n="17">Alle gruͤssend üch.</s>
+9004.xml	p495	p477	1572	t10	<s n="15">Gruͤß mir den herren schwager vogt etc. und ob dich guͦt dunckt und komlich kanst, magst die meynung wol mitt imm reden.</s>
+9007.xml	p495	p477	1572	t7,t8	<s n="11">Alles volck gruͤst üch.</s>
+9007.xml	p495	p477	1572	t7,t8	<s n="12">Gruͤß uns <persName ref="p20082" sent="to">Susannan</persName> und kinder.</s>
+9032.xml	p495	p477	1572	t1,t2	<s n="11">Gott mitt dir; all min volck und ich gruͤst gruͤst dich und <persName ref="p20082" sent="to">Susannan</persName> sampt den kindern.</s>
+9032.xml	p495	p477	1572	t1,t2	<s n="16">Gruͤß mir j. <persName>Hansen</persName> und andere unser h. In yl.</s>
+9040.xml	p495	p477	1572	t10	<s n="16">Es gruͤst üch all min volck.</s>
+9040.xml	p495	p477	1572	t10	<s n="17">Gruͤß mir j. <persName ref="p6077" sent="to">Hansen Peyer</persName>, h. <persName ref="p5711" sent="to">Hansen Löwen</persName> etc.</s>
+9041.xml	p495	p477	1572	t10,t11	<s n="13">Gruͤß <persName ref="p20082" sent="to">Susannan</persName> und die kinder.</s>
+9041.xml	p495	p477	1572	t10,t11	<s n="15">All unser volck gruͤst dich.</s>
+9048.xml	p495	p8016	1572	t10,t11	<s n="23">Die gruͤssend mir, ouch die h. burgermeister, <persName ref="p8057" sent="to">Campellum</persName>, <persName ref="p6130" sent="to">Pontisellam</persName> etc.</s>
+905.xml	p8018	p495	1550	t5	<s n="31">Üch gruͤßt mittsampt den üweren all min husgsind, auch her <persName ref="p8417" sent="from">Musculus</persName> mitt dem sinen.</s>
+9051.xml	p495	p477	1572	t10,t11	<s n="9">Gruͤß mir <persName ref="p20082" sent="to">Susanam</persName> und die kinder, mir und uns allen, ouch j. <persName ref="p6077" sent="to">Hansen Peyer</persName> und h. <persName ref="p5711" sent="to">Hansen Löwen</persName> etc.</s>
+9057.xml	p8016	p495	1572	t10,t11	<s n="30">- "Hie gaath die sag, <persName>Strotza</persName> sye von sine eignen knechten erschlagen; andere sagend allein, gefangen von denen knechten, so under imm evangelisch gewesen, und die habend andere sine knecht erschlagen, und sye sin gantze armada grüst, den evangelischen byzeston."</s>
+9062.xml	p495	p8016	1572	t10,t11	<s n="15">Gruͤssend mir in und entschuldigend mich, das ich nitt schrib.</s>
+9064.xml	p8017	p495	1572	t10,t11	<s n="15">Es grüßt üch min hußfrow und mini kind.</s>
+9066.xml	p8018	p495	1572	t10	<s n="36">Doch welt er gern in gheim wüßen, was üch hierinn beduͤchte; er wölt üch gern selb schriben, so hatt er vil zschaffen, und diewyl ich imm gar gheim, hatt er mir selichs befolhen; laßt üch hiemitt vast gruͤßen.</s>
+9067.xml	p1918	p495	1572	t10	<s n="14">Unsere lieben herren predicanten, andre, ich mit in laßen euch, herrn <persName ref="p8011" sent="to">Walther</persName>, andre freundtlich dienstlich gritzen.</s>
+9067.xml	p1918	p495	1572	t10	<s n="15">Den herr seckelmaister <persName>Thoma</persName> gelieb euch, mir im min wilig dienst und gruͦtz anzaigen.</s>
+9069.xml	p8017	p495	1572	t2	<s n="8">Es gruͤßt üch min hußfrow früntlich und mini kind.</s>
+9091.xml	p495	p477	1572	t2,t3	<s n="13"><persName>J. Hansen</persName> gruͤß mir fast, ouch h. <persName>Löwen</persName>.</s>
+9101.xml	p495	p477	1572	t1,t11	<s n="13">All unser volck gruͤst üch, <persName ref="p20082" sent="to">Susannan</persName>, <persName ref="p5612" sent="to">Lisenbeth</persName> und <persName sent="to">Margareth</persName>.</s>
+9101.xml	p495	p477	1572	t1,t11	<s n="14">Gruͤß mir ouch j. <persName>Hanßen</persName> und h. <persName>Löwen</persName> und schick mir wider die conditiones des uffgäben Mont graff <persName>Ludwigen</persName>, die ich dir by dinem <persName>Hainrychen</persName> langist geschickt.</s>
+9107.xml	p8018	p495	1572	t10	<s n="22">Gruͤßend mir den alten m. Trüben und sinen sun, üweren tochterman, et reliquos tuos omnes.</s>
+9111.xml	p8017	p495	1572	t10	<s n="35">Grüeßend mihr all liebe väter und mitbrüder, wollend auch ihnen mich treuwlich befehlen.</s>
+9111.xml	p8017	p495	1572	t10	<s n="36">Grüßend mir auch die euweren alle.</s>
+9111.xml	p8017	p495	1572	t10	<s n="37">Es grüest auch sy und euch mein haußfrouw.</s>
+9114.xml	p495	p8016	1572	t10,t11	<s n="41">Gruͤssend mir alle guͦte herren und bruͤder, die ir wol kenend, <persName ref="p1770" sent="to">Carolum</persName>, consules, <persName ref="p6130" sent="to">Pontisellam</persName>, <persName ref="p8057" sent="to">Campellum</persName> etc.</s>
+9117.xml	p495	p477	1572	t9,t10	<s n="10">Gruͤß mir <persName ref="p20082" sent="to">Susanan</persName> und kind.</s>
+9117.xml	p495	p477	1572	t9,t10	<s n="11">All unser volck gruͤst üch.</s>
+9117.xml	p495	p477	1572	t9,t10	<s n="12">Gruͤß mir och j. <persName ref="p6077" sent="to">Hansen Peyer</persName> und <persName ref="p1753" sent="to">Leonem</persName>.</s>
+9118.xml	p495	p477	1572	t2	<s n="5">Den gruͤß mir trüwlich; hätte imm gern grad jetzund geschriben; ist nitt müglich.</s>
+9118.xml	p495	p477	1572	t2	<s n="7">All unser volck gruͤst dich; gruͤß mir j. <persName ref="p6077" sent="to">Hans Peyer</persName>.</s>
+9132.xml	p1918	p495	1572	t10	<s n="3">Ich bedanckh mich gantz dienstlich der zitungen, auch der vererungen, hab die mit unsern lieben herrn predicanten gethailt, die euch gantz freundtlich und dienstlich laßen grietzen; haben die histori gelaßen her <persName ref="p1789" sent="from">Kessler</persName>, ehe und ich die versant.</s>
+9132.xml	p1918	p495	1572	t10	<s n="12">Gritzen mir her <persName ref="p8011" sent="to">Walther</persName> und andre herren etc.</s>
+9135.xml	p495	p8016	1572	t2,t11	<s n="8">Hiemitt sind gott bevolhen und gruͤssend mir die h. burgermeister, h. <persName ref="p1770" sent="to">Carolum</persName>, h. <persName ref="p6130" sent="to">Pontisellam</persName>, vorab d. <persName ref="p8057" sent="to">Campellum</persName>, <persName ref="p8186" sent="to">Bonetum</persName> und andere etc.</s>
+9154.xml	p495	p8016	1573	t10	<s n="23">So er mich beruͤfft, als er mir ein verwornen thannt von Baden geschriben, wirt ich kurtz antworten: Der könig und die sinen haben gehandlet, darab alle erbern ein grewel, alle posteritas ein grusen haben und gott sin raach zuͦ siner zyt werde gan lassen, und sölle er sich huͤten, das er sich mitt den fromen nitt ouch in grosse schuld vor gott ynfuͤrre etc.</s>
+9157.xml	p495	p477	1573	t10	<s n="6">Hie hast ein brieff, mir zuͦkummen von Padua; magst wol mitteylen minem günstigen herren <persName ref="p264" sent="to">doctor Burgower</persName> und solt mir in trüwlich gruͤssen; den brieff aber schick mir fürderlich wider, ut prima quaque occasione rescribam viro optimo; Polonus est, vir doctissimus et moderator Palatini iunioris ex Polonia etc.</s>
+9157.xml	p495	p477	1573	t10	<s n="13">Es gruͤst üch alle all min volck.</s>
+9168.xml	p495	p477	1573	t4	<s n="10">Gruͤß mir <persName ref="p20082" sent="to">Susanna</persName> und die kinder; all min volck gruͤst üch alle.</s>
+9168.xml	p495	p477	1573	t4	<s n="11">H. <persName ref="p264" sent="from">doctor Burgower</persName> gruͤß mir trüwlich.</s>
+9174.xml	p8018	p495	1573	t9	<s n="19">Min herr schultheiß <persName ref="p8063" sent="from">Steiger</persName> lat üch vast gruͤßen und vil guͦter glückhaffter jaren wünschen und begärt hiemitt, von üch zuͦ verston, was ir für sine zwey faß wyn ußgen, die gen Glaris ghört; das söllend ir mich wüßen lon, so wil er es widerumb erlegen.</s>
+9187.xml	p2923	p495	1573	t10,t11	<s n="45">Wollet mir auch eur gantzes hausgesindt sambt allen meinen gunstigen herrn und guthen freunden meine willige dienst und freuntlichen grues antzaigen, und thue euch in schutz und schirm des allerhochsten bevelhen.</s>
+9198.xml	p1918	p495	1573	t10	<s n="13">Unser lieben hern predicanten laßen euch sampt alle herren bekante gritzen.</s>
+9204.xml	p495	p477	1573	t1	<s n="7">Es gruͤst dich alles volck; gruͤß uns <persName ref="p20082" sent="to">Susanna</persName> und kinder etc.</s>
+9205.xml	p495	p477	1573	t1	<s n="9">Gruͤß mir zuͦ Schaffhusen m. <persName ref="p8109" sent="to">Hans Conradten</persName> und andere liebe herren und fründ etc., by dir h. <persName ref="p8109">Hans</persName> und Löwen.</s>
+9205.xml	p495	p477	1573	t1	<s n="12">Gruͤß <persName ref="p20082" sent="to">Susanna</persName> und kinder.</s>
+9206.xml	p1918	p495	1573	t2,t10	<s n="15">Mir alle die ewer grietzen.</s>
+9277.xml	p265	p495	1573	t2	<s n="5">Jedoch sollend ir denselbigen minen guͦtten willen für die wärch für guͦtt von mir anämmen, und schicken üch hiemitt diß gitzli zuͦ einem danckbaren gruͦtz; ich wänen, es solle feist und gutt sin.</s>
+9277.xml	p265	p495	1573	t2	<s n="11">Es lassend üch alle die minen gantz früntlichen grützen und vil ehren, liebs und gutts sagen.</s>
+93.xml	p8055	p495	1548		<s n="30">Grutz ewer erbaren, lieben husfrauwen und gesind.</s>
+9301.xml	p3619	p495	1573	t10	<s n="8">Es last euch ouch mein liebe haußfrouw und unsere geliepte kinder früntlich gruͤtzen etc.</s>
+9352.xml	p495	p8016	1573	t10	<s n="27">Ich bitten, ir wöllend diß min schryben mitteylen minem günstigen herren burgermeister <persName ref="p3958" sent="to">Wylli</persName> und herren <persName ref="p8057" sent="to">Uͦlrichen Campellen</persName> und, so es müglich were, herren <persName ref="p8093" sent="to">Hercules von Salis</persName> dem allten etc. und sy von mir gruͤssen etc.</s>
+9417.xml	p8017	p495	1573	t10	<s n="8">Es gruͤßt üch und die üweren min hußfrow und all min volck.</s>
+9420.xml	p8017	p495	1573	t2,t10	<s n="15">Es gruͤßt üch h. landschryber <persName ref="p20616" sent="from">Elmel</persName>, min hußfrow und all min volck.</s>
+9420.xml	p8017	p495	1573	t2,t10	<s n="18">Es laßt üch h. <persName ref="p2939" sent="from">houptman Schuͦler</persName> sin gruͦtz und früntlichen dienst anzeigen mitt pytt, wellent uns berichten, ob künig uß Hispania tod sin sölli; dan es habe imm vogt <persName ref="p20615">Hößlin</persName> angezeigt, es sige ein schryben kummen, das sinen tod anzeige.</s>
+9765.xml	p495	p8016	1574	t2,t7	<s n="12">Gruͤssend mir die herren burgermeister und klagend mir insonders herren <persName ref="p2043" sent="to">Ambrosi Martin</persName>.</s>
+9765.xml	p495	p8016	1574	t2,t7	<s n="14">Gruͤssend mir ouch h. h. <persName ref="p1770" sent="to">Gregorium</persName> und ander unser lieb herren und fründ.</s>
+9774.xml	p495	p8016	1574	t7	<s n="25">Gruͤssend mir beid min herren burgermeister, d. <persName ref="p1770" sent="to">Carolum</persName>, d. <persName sent="to">Victorem</persName>, <persName ref="p8186" sent="to">Bonetum</persName>, <persName ref="p6130" sent="to">Pontisel</persName> und <persName ref="p654" sent="to">Comander</persName>, die hie xin; gott wölte, wir hättend sy wol getröst.</s>
+9776.xml	p8018	p495	1574	t10	<s n="48">Min hußfraw lat üch vast grüßen, vorab min herr schultheis <persName ref="p8063" sent="from">Steiger</persName>, <persName ref="p3659" sent="from">Mülinen</persName>, <persName ref="p3494" sent="from">Dießbach</persName>, <persName ref="p20518" sent="from">Hagenberg</persName>, min spießgsell im podagran, und andere.</s>

@@ -1,0 +1,266 @@
+{
+  "l441": {
+    "coordinates": "47.69732 8.63493",
+    "name": "Schaffhausen",
+    "grid_cell": {
+      "row": 0,
+      "col": 1
+    }
+  },
+  "l159": {
+    "coordinates": "47.55776 8.89893",
+    "name": "Frauenfeld",
+    "grid_cell": {
+      "row": 1,
+      "col": 1
+    }
+  },
+  "l285": {
+    "coordinates": "47.38853 8.17503",
+    "name": "Lenzburg",
+    "grid_cell": {
+      "row": 1,
+      "col": 1
+    }
+  },
+  "l203": {
+    "coordinates": "47.32779 8.17612",
+    "name": "Hallwil",
+    "grid_cell": {
+      "row": 1,
+      "col": 1
+    }
+  },
+  "l308": {
+    "coordinates": "46.98096 9.57527",
+    "name": "Malans",
+    "grid_cell": {
+      "row": 2,
+      "col": 2
+    }
+  },
+  "l585": {
+    "coordinates": "46.60206 9.95965",
+    "name": "Zuoz",
+    "grid_cell": {
+      "row": 2,
+      "col": 2
+    }
+  },
+  "l217": {
+    "coordinates": "47.76471 8.81902",
+    "name": "Hohentwiel",
+    "grid_cell": {
+      "row": 0,
+      "col": 1
+    }
+  },
+  "l167": {
+    "coordinates": "46.20222 6.14569",
+    "name": "Genf",
+    "grid_cell": {
+      "row": 2,
+      "col": 0
+    }
+  },
+  "l311": {
+    "coordinates": "50.80904 8.77069",
+    "name": "Marburg",
+    "grid_cell": {
+      "row": 0,
+      "col": 1
+    }
+  },
+  "l147": {
+    "coordinates": "47.38775 8.75149",
+    "name": "Fehraltorf",
+    "grid_cell": {
+      "row": 1,
+      "col": 1
+    }
+  },
+  "l411": {
+    "coordinates": "48.16672 7.29707",
+    "name": "Riquewihr (Reichenweier)",
+    "grid_cell": {
+      "row": 0,
+      "col": 0
+    }
+  },
+  "l513": {
+    "coordinates": "48.39841 9.99155",
+    "name": "Ulm",
+    "grid_cell": {
+      "row": 0,
+      "col": 2
+    }
+  },
+  "l2": {
+    "coordinates": "47.39254 8.04422",
+    "name": "Aarau",
+    "grid_cell": {
+      "row": 1,
+      "col": 1
+    }
+  },
+  "l28": {
+    "coordinates": "47.55839 7.57327",
+    "name": "Basel",
+    "grid_cell": {
+      "row": 1,
+      "col": 0
+    }
+  },
+  "l98": {
+    "coordinates": "46.84986 9.53287",
+    "name": "Chur",
+    "grid_cell": {
+      "row": 2,
+      "col": 2
+    }
+  },
+  "l41": {
+    "coordinates": "46.94809 7.44744",
+    "name": "Bern",
+    "grid_cell": {
+      "row": 2,
+      "col": 0
+    }
+  },
+  "l257": {
+    "coordinates": "47.66033 9.17582",
+    "name": "Konstanz",
+    "grid_cell": {
+      "row": 1,
+      "col": 2
+    }
+  },
+  "l587": {
+    "coordinates": "47.36667 8.55",
+    "name": "Z\u00fcrich",
+    "grid_cell": {
+      "row": 1,
+      "col": 1
+    }
+  },
+  "l531": {
+    "coordinates": "47.67319 10.30703",
+    "name": "Waltenhofen",
+    "grid_cell": {
+      "row": 1,
+      "col": 2
+    }
+  },
+  "l18": {
+    "coordinates": "48.37154 10.89851",
+    "name": "Augsburg",
+    "grid_cell": {
+      "row": 0,
+      "col": 2
+    }
+  },
+  "l225": {
+    "coordinates": "48.1804 7.31149",
+    "name": "Hunawihr (Hunaweier)",
+    "grid_cell": {
+      "row": 0,
+      "col": 0
+    }
+  },
+  "l59": {
+    "coordinates": "47.08333 2.4",
+    "name": "Bourges",
+    "grid_cell": {
+      "row": 2,
+      "col": 0
+    }
+  },
+  "l280": {
+    "coordinates": "46.516 6.63282",
+    "name": "Lausanne",
+    "grid_cell": {
+      "row": 2,
+      "col": 0
+    }
+  },
+  "l296": {
+    "coordinates": "51.50853 -0.12574",
+    "name": "London",
+    "grid_cell": {
+      "row": 0,
+      "col": 0
+    }
+  },
+  "l306": {
+    "coordinates": "45.46427 9.18951",
+    "name": "Mailand",
+    "grid_cell": {
+      "row": 2,
+      "col": 2
+    }
+  },
+  "l49": {
+    "coordinates": "47.13713 7.24608",
+    "name": "Biel/Bienne",
+    "grid_cell": {
+      "row": 1,
+      "col": 0
+    }
+  },
+  "l512": {
+    "coordinates": "48.52266 9.05222",
+    "name": "T\u00fcbingen",
+    "grid_cell": {
+      "row": 0,
+      "col": 1
+    }
+  },
+  "l100": {
+    "coordinates": "47.824021 2.845216",
+    "name": "Ch\u00e2tillon-sur-Loing",
+    "grid_cell": {
+      "row": 0,
+      "col": 0
+    }
+  },
+  "l473": {
+    "coordinates": "47.42391 9.37477",
+    "name": "St. Gallen",
+    "grid_cell": {
+      "row": 1,
+      "col": 2
+    }
+  },
+  "l525": {
+    "coordinates": "46.35112 9.6208",
+    "name": "Vicosoprano",
+    "grid_cell": {
+      "row": 2,
+      "col": 2
+    }
+  },
+  "l491": {
+    "coordinates": "48.58392 7.74553",
+    "name": "Stra\u00dfburg",
+    "grid_cell": {
+      "row": 0,
+      "col": 1
+    }
+  },
+  "l91": {
+    "coordinates": "45.56628 5.92079",
+    "name": "Chamb\u00e9ry",
+    "grid_cell": {
+      "row": 2,
+      "col": 0
+    }
+  },
+  "l499": {
+    "coordinates": "46.74989 10.07918",
+    "name": "S\u00fcs",
+    "grid_cell": {
+      "row": 2,
+      "col": 2
+    }
+  }
+}
