@@ -5,11 +5,11 @@ import re
 import json
 from collections import defaultdict
 
-with open("German_Files/DE_visualization_input_file.txt", "r", encoding="utf-8") as f:
+with open("Input_Files/DE_visualization_input_file.txt", "r", encoding="utf-8") as f:
     de_lines = f.readlines()
     de_lines = [l.split("\t") for l in de_lines]
 
-with open("Latin_Files/LA_visualization_input_file.txt", "r", encoding="utf-8") as f:
+with open("Input_Files/LA_visualization_input_file.txt", "r", encoding="utf-8") as f:
     la_lines = f.readlines()
     la_lines = [l.split("\t") for l in la_lines]
 
