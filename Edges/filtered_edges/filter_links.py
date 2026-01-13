@@ -8,7 +8,7 @@ def filter_links(links_file="all_links.json", outfile="filtered_links.json"):
     filtered_edges = {}
 
     for k, v in edges_files.items():
-        # filter out entries where the sum across all years is lower than the threshold
+        # filter out entries where the sum of greetings across all years is lower than the threshold
         if sum(v.values()) >= threshold:
             print(k, v)
             filtered_edges[k] = v
