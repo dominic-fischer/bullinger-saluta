@@ -2,7 +2,7 @@ import json
 import re
 
 # --- Load data --- #
-with open("filtered_links.json", "r", encoding="utf-8") as f:
+with open("Edges/filtered_edges/filtered_links.json", "r", encoding="utf-8") as f:
     edges_files = json.load(f)
 
 with open("lookups/person_lookup.json", "r", encoding="utf-8") as f:

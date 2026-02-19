@@ -4,13 +4,13 @@ def clamp(value, min_val, max_val):
     return max(min_val, min(value, max_val))
 
 # --- Load files --- #
-with open("grid_assignment.json", "r", encoding="utf-8") as f:
+with open("Nodes/starting_position/grid_assignment.json", "r", encoding="utf-8") as f:
     cities_grid = json.load(f)
 
-with open("person_main_location_by_year.json", "r", encoding="utf-8") as f:
+with open("Nodes/all_nodes/person_main_location_by_year.json", "r", encoding="utf-8") as f:
     person_data = json.load(f)
 
-with open("all_persons_in_filtered_links.json", "r", encoding="utf-8") as f:
+with open("Nodes/filtered_nodes/all_persons_in_filtered_links.json", "r", encoding="utf-8") as f:
     all_actors_in_filtered_links = json.load(f)
 
 with open("lookups/place_colours_lookup.json", "r", encoding="utf-8") as f:
@@ -103,6 +103,8 @@ for person_id, entry in person_data.items():
     # Track location usage
     locations.add(year_loc_pairs[0][1])
 
+    start_loc = year_loc_pairs[0][1]
+    grid_cell = cities_grid.get(start_loc, {}).get("grid_cell", {})
 
     # Add node entry
     nodes.append({
@@ -112,21 +114,26 @@ for person_id, entry in person_data.items():
         "start": start_year,
         "end": end_year,
         "location": year_loc_pairs[0][1],
-        "starting_loc_x": cities_grid.get(year_loc_pairs[0][1]).get("grid_cell").get("row"),
-        "starting_loc_y": cities_grid.get(year_loc_pairs[0][1]).get("grid_cell").get("col"),
+        "starting_loc_x": grid_cell.get("row"),
+        "starting_loc_y": grid_cell.get("col"),
         "colorSchedule": colorSchedule
     })
 
-with open("all_persons_in_filtered_links.json", "r", encoding="utf-8") as f:
+    if start_loc not in cities_grid or cities_grid[start_loc] is None:
+        print(f"[WARN] start_loc {start_loc, place_names.get(start_loc)} missing in cities_grid for person {person_lookup.get(person_id, person_id)}")
+    grid_cell = cities_grid.get(start_loc, {}).get("grid_cell", {})
+
+
+with open("Nodes/filtered_nodes/all_persons_in_filtered_links.json", "r", encoding="utf-8") as f:
     all_actors = json.load(f)
 with open("lookups/person_lookup.json", "r", encoding="utf-8") as f:
     person_lookup = json.load(f)
-with open("all_person_nodes.json", "r", encoding="utf-8") as f:
+with open("Nodes/all_nodes/all_person_nodes.json", "r", encoding="utf-8") as f:
     all_person_nodes = json.load(f)
 
 import json
 
-with open("filtered_links.json", "r", encoding="utf-8") as f:
+with open("Edges/filtered_edges/filtered_links.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 for actor in all_actors:
@@ -175,9 +182,10 @@ print(len(locations))
 
 loc_coords = [[l, place_coords.get(l)] for l in locations]
 
+with open("Nodes/starting_position/all_involved_cities.json", "w", encoding="utf-8") as f:
+    json.dump(loc_coords, f, ensure_ascii=False, indent=2)
+
 # --- Save result --- #
 with open("person_nodes.json", "w", encoding="utf-8") as f:
     json.dump(nodes, f, ensure_ascii=False, indent=2)
 
-with open("all_involved_cities.json", "w", encoding="utf-8") as f:
-    json.dump(loc_coords, f, ensure_ascii=False, indent=2)

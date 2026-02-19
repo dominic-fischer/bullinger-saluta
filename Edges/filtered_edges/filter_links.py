@@ -1,6 +1,6 @@
 import json
 
-def filter_links(links_file="all_links.json", outfile="filtered_links.json"):
+def filter_links(links_file="Edges/all_edges_undirected/all_links.json", outfile="Edges/filtered_edges/filtered_links.json"):
     with open(links_file, "r", encoding="utf-8") as f:
         edges_files = json.load(f)
 
@@ -24,7 +24,7 @@ def filter_links(links_file="all_links.json", outfile="filtered_links.json"):
     all_actors = list(all_actors)
     print(len(all_actors))
 
-    with open("all_persons_in_filtered_links.json", "w", encoding="utf-8") as f:
+    with open("Nodes/filtered_nodes/all_persons_in_filtered_links.json", "w", encoding="utf-8") as f:
         json.dump(all_actors, f, ensure_ascii=False, indent=2)
 
     with open(outfile, "w", encoding="utf-8") as f:

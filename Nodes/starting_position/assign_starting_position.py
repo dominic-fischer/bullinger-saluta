@@ -78,7 +78,7 @@ def assign_quantile_grid(coords: List[str]) -> List[Tuple[str, Tuple[int, int]]]
 
 # Example usage
 import json
-with open("all_involved_cities.json", "r",encoding="utf-8") as f:
+with open("Nodes/starting_position/all_involved_cities.json", "r",encoding="utf-8") as f:
     cities = json.load(f)
 
 with open("lookups/place_name_lookup.json", "r", encoding="utf-8") as f:
@@ -151,7 +151,7 @@ json_result = {
 
 
 # Save to file
-with open("grid_assignment.json", "w", encoding="utf-8") as f:
+with open("Nodes/starting_position/grid_assignment.json", "w", encoding="utf-8") as f:
     json.dump(json_result, f, indent=2)
 
-print("Saved to grid_assignment.json")
+print("Saved to Nodes/starting_position/grid_assignment.json")

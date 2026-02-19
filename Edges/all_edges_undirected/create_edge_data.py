@@ -31,18 +31,22 @@ for l in lines:
 
     for sender in senders:
         for recipient in recipients:
-            # we only count actual greetings, not letters sent
-            for match in matches:
-                ref_match = re.search(r'\bref="([^"]+)"', match)
+            # these are all greeting matches
+            for match in matches: 
+                # these are the people greeting/being greeted
+                ref_match = re.search(r'\bref="([^"]+)"', match) 
                 ref_match = ref_match.group(1) if ref_match is not None else ""
                 if ref_match == "":
                     continue
 
-                if 'sent="to"' in match:
+                # if the sender sends greetings TO sb, that means he considers the person being greeted as part of the recipient's team
+                if 'sent="to"' in match: 
+                    key = (recipient, ref_match)
+                # if the sender sends greetings FROM sb, that means he considers the person being greeted as part of his own team
+                elif 'sent="from"' in match: 
                     key = (sender, ref_match)
-                elif 'sent="from"' in match:
-                    key = (ref_match, recipient)
                 
+                # if the key already exists, add the year to the existing counts; otherwise, create a new entry
                 if key in vis_data:
                     vis_data[key][year] = vis_data[key].get(year, 0) + 1
                 else:
@@ -50,17 +54,14 @@ for l in lines:
 
     
 
-
+# calculate total count as a sanity check before merging
 total_count = sum(
     count for pair in vis_data.values()
     for count in pair.values()
 )
 
-print(total_count)
-print(len(vis_data.keys()))
-
-
-
+print("Total greeting-derived edges before merging:", total_count)
+print("Total unique pairs (teams) before merging:", len(vis_data.keys()))
 
 
 # normalize keys (sorted tuple) and merge year counts
@@ -80,14 +81,14 @@ total_count_final = sum(
     for count in pair.values()
 )
 
-print(total_count_final)
-print(len(final_dict.keys()))
-
-
+print("Total greeting-derived edges after merging:", total_count_final)
+print("Total unique pairs (teams) after merging:", len(final_dict.keys()))
+assert total_count == total_count_final, "Total counts should match before and after merging"
+assert len(final_dict.keys()) <= len(vis_data.keys()), "Number of unique pairs should not increase after merging"
 
 # convert tuple keys to strings (since JSON keys must be strings)
 json_ready = {f"{k[0]}|{k[1]}": v for k, v in final_dict.items()}
 
 # save to file
-with open('all_links.json', 'w', encoding='utf-8') as f:
+with open('Edges/all_edges_undirected/all_links.json', 'w', encoding='utf-8') as f:
     json.dump(json_ready, f, indent=2, ensure_ascii=False)

@@ -88,14 +88,15 @@ for person, data in person_data_sorted.items():
 
 
 # --- Save to JSON --- #
-with open("person_locations_by_year.json", "w", encoding="utf-8") as f:
+with open("Nodes/all_nodes/person_locations_by_year.json", "w", encoding="utf-8") as f:
     json.dump(person_data_sorted, f, indent=2, ensure_ascii=False)
 
-with open("person_main_location_by_year.json", "w", encoding="utf-8") as f:
+with open("Nodes/all_nodes/person_main_location_by_year.json", "w", encoding="utf-8") as f:
     json.dump(most_frequent_by_year, f, indent=2, ensure_ascii=False)
 
-with open("all_person_nodes.json", "w", encoding="utf-8") as f:
+with open("Nodes/all_nodes/all_person_nodes.json", "w", encoding="utf-8") as f:
     json.dump(all_person_nodes, f, indent=2, ensure_ascii=False)
+
     
 
 
