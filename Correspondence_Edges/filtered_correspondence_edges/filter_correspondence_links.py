@@ -15,6 +15,7 @@ DIRECTED_IN   = os.path.join(IN_EDGES_DIR, "correspondence_pairs_directed.json")
 UNDIRECTED_OUT = os.path.join(OUT_EDGES_DIR, "correspondence_pairs_undirected_filtered.json")
 DIRECTED_OUT   = os.path.join(OUT_EDGES_DIR, "correspondence_pairs_directed_filtered.json")
 
+CENTER_PERSON = "p495"
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -26,42 +27,46 @@ def save_json(obj, path):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=2, ensure_ascii=False)
 
-
 def filter_undirected(edges, allowed):
     """
-    edges format:
-      {
-        "p1|p2": {"count": ..., "years": {...}},
-        ...
-      }
-    keep only if p1 and p2 are both in allowed
+    keep only edges involving CENTER_PERSON
+    AND both persons must still be in allowed
     """
     out = {}
     for k, v in edges.items():
         if "|" not in k:
             continue
-        a, b = k.split("|", 1)
-        if a in allowed and b in allowed:
-            out[k] = v
-    return out
 
+        a, b = k.split("|", 1)
+
+        if (
+            (a == CENTER_PERSON or b == CENTER_PERSON)
+            and a in allowed
+            and b in allowed
+        ):
+            out[k] = v
+
+    return out
 
 def filter_directed(edges, allowed):
     """
-    edges format:
-      {
-        "p1->p2": {"count": ..., "years": {...}},
-        ...
-      }
-    keep only if p1 and p2 are both in allowed
+    keep only edges where CENTER_PERSON is sender or receiver
+    AND both persons are allowed
     """
     out = {}
     for k, v in edges.items():
         if "->" not in k:
             continue
+
         a, b = k.split("->", 1)
-        if a in allowed and b in allowed:
+
+        if (
+            (a == CENTER_PERSON or b == CENTER_PERSON)
+            and a in allowed
+            and b in allowed
+        ):
             out[k] = v
+
     return out
 
 
