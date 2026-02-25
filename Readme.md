@@ -1,14 +1,18 @@
-
 ### Notes on the processing of the data
 
-**Filtering**
-- If the total of edges across all years between a given pair of nodes is below 10, that pair and its edges is discarded entirely
+**Greetings are used to detect Team Structures**
+In our corpus, each letter has a sender and an addressee. Senders may send greetings involving third persons in these letters; such greeting sentences are marked as a whole, with further attributes marked therein:
 
-**Edges**
-- Only actual greetings currently count as edges (the amount of letters between two people is disregarded)
-- The edges are undirected, i.e. all greetings exchanged between two nodes in a given year form an edge together
-- The thickness of that edge corresponds to the number of exchanged greetings
+- attribute _sent_ = {from, to}: Is the sender _forwarding_ (=from) greetings to the addressee, or _asking the addressee to forward_ (=to) greetings to other people?
+- attribute _ref_ = the third person(s) mentioned in the greeting
 
-**Nodes**
-- The radius of a node is proportional to the amount of letters of that person in the entire Bullinger Corpus (~ the person's significance wrt. to Bullinger). This proportioning starts from the second-most prolific writer, as Bullinger himself is an outlier. Bullinger's radius is clamped to the maximum, i.e. that writer's size.
-- Node filtering (Top N) is based on radius size
+We then define the correspondents' teams as follows:
+
+- If a sender sends greetings _from_ somebody, that person is considered part of the _sender's team_ and gets an edge to the sender.
+- If a sender sends greetings _to_ somebody, that person is considered part of the _addressee's team_ and gets an edge to addressee.
+
+**Edges & Filtering**
+That gives us a dictionary of undirected team member pairs. If the total edge count (i.e., the count of all greeting-derived mentions) across all years between a given pair of nodes is below 10, that pair and its edges is discarded entirely.
+
+**Nodes & Filtering**
+The nodes are the different correspondents in our corpus; the [visualisation](https://github.com/dominic-fischer/dynamic-graph) caps these at the top 50 most prolific writers.
